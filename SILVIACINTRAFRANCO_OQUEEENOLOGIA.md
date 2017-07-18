@@ -1604,8 +1604,7 @@ ração do gás carbônico se acelera e manda para o espaço a elegância e
 a fineza da bebida. A tempera- tura ideal, segundo o Larousse do
 Vinho, é:
 
-![](media/image7.png){width="3.3466579177602798in"
-height="2.1266666666666665in"}
+IMAGEM1
 
 # Enogastronomia: arte de realçar sabores e prazeres
 
@@ -1737,10 +1736,13 @@ leves (como frango ou costeli- nha) o que conta é o molho. Se for de
 vinho bran- co, o vinho a acompanhar será branco, se o molho for de
 tinto, vinho tinto.
 
-### ![](media/image8.png){width="3.0549857830271216in" height="1.6081244531933507in"}Vinhos Tintos
+**Vinhos Tintos**
 
-![](media/image9.png){width="3.1535411198600176in"
-height="1.8966666666666667in"}**Vinhos Brancos**
+IMAGEM2
+
+**Vinhos Brancos**
+
+IMAGEM3
 
 (in “O que é Gastronomia?”, pg.55)
 
@@ -3424,10 +3426,9 @@ Temática, nº 17, pg. 56.
 xlii MACEDO, JOSÉ RIVAIR. O real e o imaginário nos fabliaux
 medievais. Revista Tempo (UFF), v. 9 n. 17, p. 9-32, 2004.
 
-![](media/image10.png){width="2.46667104111986in"
-height="1.8499989063867017in"}
-
 # Sobre as autoras
+
+IMAGEM4
 
 **Silvia Cintra Franco**
 
