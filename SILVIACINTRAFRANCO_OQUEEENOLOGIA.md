@@ -1,5 +1,4 @@
-O encanto do vinho
-==================
+#O encanto do vinho
 
 *O valor do vinho é mais do que um simples (ou mesmo complexo) prazer
 gustativo. É uma tape- çaria de gostos e sentimentos, expectativas e
@@ -55,8 +54,7 @@ Clicquot ou de um negociante de vinhos como Burnes que, por estar
 atento ao gosto de seus clien- tes, foi o responsável pela introdução
 do champanhe *brut* ou seco.
 
-O que é enologia. O que é o vinho.
-==================================
+#O que é enologia. O que é o vinho
 
 *O vinho molha e tempera os espíritos e acalma as preocupações da
 mente... Ele reaviva nossas ale- grias e é óleo para a chama da vida
@@ -120,8 +118,7 @@ expectativas de seu cliente, isto é, em geral, vinhos que recebam nota
 100 das revistas especializadas e de críticos como o americano Robert
 Parker: vinhos intensos, frutados e encorpados...
 
-Chefs e enólogos
-----------------
+##Chefs e enólogos
 
 *O vinho está vinculado à cultura, à gastronomia, ao bom viver. Ele
 gera uma ponte de comunicação que não existe em nenhum outro produto.*
@@ -155,8 +152,7 @@ uma garrafa de vinho da região de Rioja, Espanha, cuja safra de 2005
 recebeu nota 10, sabe que está diante de um exemplar de uma grande
 safra.
 
-A uva e sua cultura: viticultura e vinificação.
------------------------------------------------
+##A uva e sua cultura: viticultura e vinificação
 
 *Não conheço nada mais sério do que a cultura da vinha.*
 
@@ -226,7 +222,7 @@ em viticultura, o desta- que se dá à região: Bordeaux, Chablis e
 Borgonha, regiões onde essas cepas são, respectivamente, as mais
 importantes.
 
-#### *Terroir*
+### *Terroir*
 
 *Cada terroir tem sua voz, sua mensagem.*
 
@@ -484,8 +480,7 @@ quilos de uvas. E a chilena Cono Sur, para fazer o Ocio, usa caixas de
 Colhidas, as uvas vão imediatamente para a cantina, onde será feito o
 vinho.
 
-A vinificação - Vinhos tintos
------------------------------
+## A vinificação --- Vinhos tintos
 
 *Não se mudar de vinho é uma heresia; a língua se satura e, depois do
 terceiro copo, o melhor dos vinhos produz apenas uma sensação
@@ -684,7 +679,7 @@ quentes. O provável **The End** seria um vinho “chato” e enjoativo
 como alguns melodra- mas hollywoodianos ou como a compota de fruta
 muito açucarada.
 
-### De continente a conteúdo: o barril.
+### De continente a conteúdo: o barril
 
 Não são poucas as descobertas que aconte- cem por acaso. Uma delas é o
 poder dos barris de madeira de gerar aromas no vinho.
@@ -713,9 +708,7 @@ do Novo Mundo fazem economia: em vez de acondicionar os vinhos em
 barris, colocam lascas de carvalho nas cubas como se fossem sachês de
 chá.
 
-### Espumantes, cavas e champanhes
-
-#### *millesimés*
+## Espumantes, cavas e champanhes *millesimés*
 
 *Eu só bebo champanhe quando estou feliz, e quan- do estou triste. Às
 vezes eu bebo quando estou sozi- nha. Quando tenho companhia,
@@ -854,7 +847,7 @@ sensação de pequeno *picor* (as agulhas) e não a de gás na boca. Se as
 borbulhas chegam *de repente*, significa que o gás está
 desequilibrado.
 
-### Cavas e Proseccos
+### Cavas e *Proseccos*
 
 O cava é um vinho espumante produzido em grande parte na Catalunha,
 mais precisamente em Sant Sadurní d’Anoia (Penedès), a cerca de 40 km
@@ -879,8 +872,7 @@ elaboração de cava branco.
 O Prosecco é espumante da uva italiana Prosecco e feito pelo método
 charmat.
 
-2.5. Vinhos de sobremesa
-------------------------
+## Vinhos de sobremesa
 
 Os vinhos doces, chamados de “colheita tar- dia” ou “botritizados”,
 são geralmente vinhos caros e raros, pois o principal processo de
@@ -911,11 +903,9 @@ muito pelo contrário, remete à podridão. Daí o apelido de “podridão
 nobre”. Vinhos feitos dessa forma dependem de *terroir* e especiais
 condi- ções climáticas, como na região francesa de Sauternes.
 
-1.  Descubra o vinho que é a sua cara
-=================================
+# Descubra o vinho que é a sua cara
 
-1.  **Degustações: *um pouco de muitos* em vez de *muito de
-    poucos***
+##  Degustações: *um pouco de muitos* em vez de *muito de poucos*
 
 *O vinho é bebida gregária. Estabelece e estreita laços.*
 
@@ -984,7 +974,7 @@ A ABS-SP, fundada em 1989, é entidade de grande credibilidade, sólida
 reputação e responsável pela formação técnica de *sommeliers* e
 organização de cursos da mais alta qualidade.
 
-### As cepas e suas características
+## As cepas e suas características
 
 *O gênio do vinho está na cepa.*
 
@@ -1089,7 +1079,7 @@ exuberantes. Final saboroso. **Cepas**: Cabernet Franc, Cabernet
 Sauvignon, Grenache, Merlot, Muscat, Touriga Nacional, Sémillon,
 Zibbido e Pedro Ximénez.
 
-1.  ### Sopa de letrinhas
+## Sopa de letrinhas
 
 *Fazemos um produto raro, para não dizer único, com nossos três ases
 que eu creio hão de prevalecer por muito tempo: terroir, know-how e
@@ -1165,7 +1155,7 @@ região não permitem tintos.
 
 **Loire**: Vinhos brancos em sua maioria.
 
-### Na Itália os vinhos tem a seguinte classificação:
+Na Itália os vinhos tem a seguinte classificação:
 
 *Vino di Tavola*
 
@@ -1187,10 +1177,9 @@ A região de Bento Gonçalves, na Serra Gaúcha, recebeu um selo de
 reconhecimento da União Européia em 2007: a Indicação Geográfica Vale
 dos Vinhedos.
 
-1.  O prazer de beber vinho
-=======================
+# O prazer de beber vinho
 
-1.  ### Os sentidos a serviço do prazer
+## Os sentidos a serviço do prazer
 
 *O conhecimento e a educação sensorial apurada podem obter do vinho
 prazeres infinitos.*
@@ -1239,7 +1228,7 @@ sutile- zas da cor informam o estado do vinho – se jovem ou maduro.
 Assim, com atenção, pode-se aproveitar 100% das maravilhas que um
 vinho nos oferece.
 
-1.  **Julgando os vinhos ou saboreando os vinhos**
+## Julgando os vinhos ou saboreando os vinhos
 
 *O vinho é a parte intelectual da refeição.*
 
@@ -1272,8 +1261,7 @@ fichas de degustação detalhadas, onde diversos aspectos dos vinhos são
 pontuados em separado de modo a se obter uma padronização nos
 critérios de pontuação e assim reduzir a subjetividade.
 
-Olhos de ver
-------------
+## Olhos de ver
 
 Razão tinha o lobo mau, travestido de vovó na história dos irmãos
 Grimm. Há que se ter olhos grandes para enxergar o que interessa. A
@@ -1320,7 +1308,7 @@ teor de álcool. Quanto mais pigmentos na trilha dessas pernas junto à
 parede do copo, maior a concentração de taninos. “Elementar, meu caro
 Watson”, diria um Sherlock Holmes que amasse os vinhos.
 
-### Pedra de isqueiro, especiarias, manteiga e baunilha...
+### Pedra de isqueiro, especiarias, manteiga e baunilha
 
 “O olfato é o ‘sentido perdido’, relegado a um ostracismo de séculos,
 em desuso pelo homem moderno” recorda o jornalista Marcelo Copello,
@@ -1448,7 +1436,7 @@ dos).
 **Textura**: a impressão tátil do conjunto, como macio, aveludado,
 rugoso.
 
-### Paladar. Sensações Gustativas
+### Paladar. Sensações gustativas
 
 As percepções gustativas da língua podem ser:
 
@@ -1460,10 +1448,9 @@ As percepções gustativas da língua podem ser:
 
 **Amargo**: na parte posterior da língua
 
-1.  O serviço do vinho
-==================
+# O serviço do vinho
 
-1.  ### Dê uma chance ao vinho
+## Dê uma chance ao vinho
 
 Já vimos que a elaboração do vinho é feita da forma mais cuidadosa
 possível: o pessoal responsá- vel pela colheita madruga no vinhedo com
@@ -1506,8 +1493,7 @@ pesquisas em andamen-
 to verifiquem se a *screwcap* é indicada para vinhos de longa guarda
 como um Barolo, por exemplo.
 
-O que depende do consumidor
----------------------------
+## O que depende do consumidor
 
 Do vinicultor ao viticultor e deste ao fornece- dor, todos trabalham e
 se empenham para garantir qualidade, aroma, textura e cor para
@@ -1557,8 +1543,7 @@ temperatura de um país tropical a 32°C. Não há vinho que resista a tão
 cruel tratamento. É preciso dar uma chance ao vinho para que ele possa
 fazer boa figura.
 
-Vinhos de guarda e a guarda dos vinhos
---------------------------------------
+## Vinhos de guarda e a guarda dos vinhos
 
 Hoje em dia a vasta maioria dos vinhos chega ao mercado como as
 roupas: *prêt-a-boire*. Espuman- tes e champanhes, principalmente,
@@ -1595,8 +1580,7 @@ degustações. Aqui no Brasil exis- te o
 instrumento importante quando a adega passa de uma centena de
 garrafas.
 
-Vinhos quentes destacam defeitos, gelados escondem qualidades.
---------------------------------------------------------------
+## Vinhos quentes destacam defeitos, gelados escondem qualidades
 
 Para que o vinho possa fazer bonito, há que servi-lo na temperatura
 correta e cada vinho tem o seu grau ideal.
@@ -1623,8 +1607,7 @@ Vinho, é:
 ![](media/image7.png){width="3.3466579177602798in"
 height="2.1266666666666665in"}
 
-Enogastronomia. A arte de realçar sabores e prazeres.
-=====================================================
+# Enogastronomia: arte de realçar sabores e prazeres
 
 *Ainda pouco explorada por chefs e sommeliers, a utilização de
 contrastes de texturas entre pratos e vinhos é um desafio à
@@ -1662,8 +1645,7 @@ complementam e se harmonizam.”xvii
 O que não faltam são regras de harmonização. Entretanto melhores do
 que regras e tabelas são os princípios e o bom senso.
 
-Princípios de harmonização
---------------------------
+## Princípios de harmonização
 
 *A ordem das bebidas é das mais moderadas às mais fortes e
 perfumadas.*
@@ -1730,9 +1712,7 @@ agridoces, compotas, pratos leves com frutas. Aromas amanteigados ou
 que lembram mel sinalizam uma agradável combinação com molhos à base
 de creme e manteiga.
 
-### Características de vinhos
-
-**e pratos para harmonizações**
+Características de vinhos e pratos para harmonizações
 
 1.  Os **rosados** ou *rosés* combinam a acidez, o frescor e o corpo
 leve dos brancos com o caráter frutado dos tintos. Assim, um rosado
@@ -1767,10 +1747,9 @@ height="1.8966666666666667in"}**Vinhos Brancos**
 Como se pode ver, harmonização não é mate- mática, como também não o é
 a moda e outras artes que combinam princípios e preferências pessoais.
 
-7.  Globalização e classe social.
-=============================
+# Globalização e classe social
 
-1.  ### O poeta e o sociólogo.
+## O poeta e o sociólogo
 
 *Os ricos querem bons vinhos, os pobres querem muito vinho.*
 
@@ -1809,8 +1788,7 @@ geral, se diferenciam das outras classes sociais pelo consumo de
 alimentos exóticos, naturais, saudáveis etc. Provavelmente é este o
 segmento que dará prefe- rência aos vinhos orgânicos e biodinâmicos.
 
-A “classe baixa” vai ao paraíso
--------------------------------
+## A “classe baixa” vai ao paraíso
 
 *O vinho não é apenas um líquido, é estilo de vida.*
 
@@ -1829,8 +1807,7 @@ do Champinha (criminoso de alta periculosidade e bai- xíssimo capital
 cultural) encontraram sobre a mesa da comemoração da fuga garrafas de
 cerveja e... de vinho. É a “classe D” chegando ao paraíso.
 
-Não beba nota, não beba rótulo. Beba vinho.
--------------------------------------------
+## Não beba nota, não beba rótulo, beba vinho
 
 *O gosto é pessoal. Eu gosto do que eu gosto — e você deveria fazer o
 mesmo.*
@@ -1878,8 +1855,7 @@ líquido e mais estilo de vida. Os amantes do vinho reúnem-se para
 degustá-lo, via- jam para conhecer as regiões vinícolas e divertem-se
 descobrindo gostos, sabores e texturas.
 
-No meio do caminho tinha uma nota tinha uma nota no meio do caminho...
-----------------------------------------------------------------------
+## No meio do caminho tinha uma nota, tinha uma nota no meio do caminho
 
 *Sou capaz de fazer um vinho de 100 pontos. Susana Balbo, enóloga
 argentinaxxii*
@@ -1966,8 +1942,7 @@ anos todos? Ninguém sabe. Mas “Bolero” e outras obras suas seguem
 sendo executadas em todas as rádios de música clássica mais de um
 século depois de sua composição...
 
-Viva a pluralidade!
--------------------
+## Viva a pluralidade!
 
 *Posso viver sem jóias e roupas lindas, posso até viver sem chá, mas
 se tivesse que viver sem voltar a beber uma taça de vinho outra vez,
@@ -2043,8 +2018,7 @@ independên- cia para beber o que gostam.
 
 Deixemos as *fatwas* e os dogmas para as ques- tões de fé.
 
-Vinho e cultura
----------------
+## Vinho e cultura
 
 *Vinho é cultura e toda cultura deve apresentar diversidade de
 estilos, como a literatura.*
@@ -2098,11 +2072,9 @@ que lhes dá real prazer.
 O crítico Saul Galvão aconselha ao iniciante do vinho: “beba,
 prestando atenção. A diferença entre beber e degustar é a atenção”.
 
-7.  Vinho e saúde
-=============
+# Vinho e saúde
 
-1.  Vinhos alcoólicos
-    -----------------
+## Vinhos alcoólicos
 
 O teor alcoólico dos vinhos só faz crescer. Tradicionalmente eram 11º
 e 12º de álcool, agora já ultrapassam a barreira dos 16º! Vinhos
@@ -2151,8 +2123,7 @@ de 0,59g/l. Se o vinho tiver 14º, esse nível, com as mesmas três
 taças, se elevará para 0,73g/l de álcool, ultrapassando dessa forma o
 limite legal para dirigir”, relata Borges. xxvii
 
-Beba diariamente e viva longamente.
------------------------------------
+## Beba diariamente e viva longamente
 
 *Vinho: tônico da mente e do corpo, o antídoto para a insônia, a
 tristeza e a fadiga \[...\] o estimulador do apetite, da felicidade e
@@ -2201,8 +2172,7 @@ abster-se de beber dia- riamente àquelas pessoas que tenham problemas
 de arritmia cardíaca, doenças de miocárdio, elevação de triglicérides,
 obesidade, hiperglicemia e diabetes.
 
-Mulheres e vinho
-================
+# Mulheres e vinho
 
 A famosa jornalista Jancis Robinson costuma dizer que se ganhasse uma
 garrafa de vinho a cada vez que lhe perguntam o que é ser mulher num
@@ -2234,8 +2204,7 @@ vantagem de ter maior contato com a cozinha para poder definir bem os
 aromas: estamos mais próximas, somos mais práticas e temos maior
 facilidade”, declara.
 
-O vinho no Brasil
-=================
+# O vinho no Brasil
 
 A história do vinho no Brasil apenas começa a ser escrita e é muito
 recente, embora as primeiras videiras tenham chegado à Terra de Santa
@@ -2322,8 +2291,7 @@ moti- vos semelhantes, faz bons espumantes, “muitas vezes melhores que
 muitos importados, incluindo vários europeus”, declara o respeitado
 *sommelier* Manoel Beato.
 
-O vinho na História e a história do vinho
-=========================================
+# O vinho na História e a história do vinho
 
 Como surgiu a cultura do vinho? Durante milê- nios, o vinho foi feito
 basicamente da mesma forma: cultivo da uva, colheita, pisa ou prensa,
@@ -2419,8 +2387,7 @@ especializadas: Adega, Gula, Prazeres da Mesa, Vinho Magazine, Wine
 Style. E os grandes jornais mantêm coluna semanal com notícias do
 mundo dos vinhos.
 
-Origens, evidências arqueológicas e teorias
--------------------------------------------
+## Origens, evidências arqueológicas e teorias
 
 Certamente o vinho é obra da natureza e sua descoberta, do acaso.
 Sítios arqueológicos atestam a existência da cultura da vinha desde 5
@@ -2445,8 +2412,7 @@ momento que os caçadores descobriram os benefícios da agricultura e
 decidiram abandonar a vida de vagamundo? Eis aí mais uma teoria
 plausível entre tantas outras carentes de averiguação.
 
-O vinho na Antiguidade
-----------------------
+## O vinho na Antiguidade
 
 *Os povos do Mediterrâneo começaram a sair da bárbarie quando
 aprenderam a cultivar a oliveira e a vinha.*
@@ -2590,8 +2556,7 @@ Com a queda de Roma, no ano 476 da era cristã, os bárbaros germânicos
 adotam o costume de beber vinho e expandem a comercialização da
 bebida.
 
-O caráter sagrado do vinho
---------------------------
+## O caráter sagrado do vinho
 
 *O sacramento da Eucaristia só pode celebrar-se com vinho de videiras
 pois essa é a vontade de Cristo Jesus, que escolheu o vinho quando
@@ -2657,8 +2622,7 @@ as autoridades cariocas e paulistas seguiram o mesmo caminho: erigiram
 seus sambódromos e definiram as ruas e os lugares onde a festa pode
 acontecer.
 
-O vinho em Roma
----------------
+## O vinho em Roma
 
 No final da República, Roma era “uma metró- pole de 1 milhão de
 habitantes, com consumo esti- mado entre 100 milhões e 200 milhões de
@@ -2693,8 +2657,7 @@ maturidade sob os efeitos do transporte por mar e seu movimento
 ondulatório contínuo. Antecipou, portanto, em dezessete sécu- los, o
 que viria a suceder com os vinhos Madeira.
 
-Celtas, os inventores do barril
--------------------------------
+## Celtas, os inventores do barril
 
 Os celtas ou gauleses, como os chamavam os romanos, eram o povo nativo
 da Gália, atual França. Os gauleses eram um povo dinâmico, guer- reiro
@@ -2755,8 +2718,7 @@ Eram bons viticultores, mas comerciantes de ética duvidosa, pois
 plantas como gen- ciana, aloés, lavanda etc. e os defumavam com o
 objetivo de alterar sua cor e seu sabor para aumen- tar os lucros.
 
-A decadência de Roma e a Alta Idade Média
------------------------------------------
+## A decadência de Roma e a Alta Idade Média
 
 Com a invasão de Roma pelos visigodos no século 4, o Ocidente entra em
 colapso e permanece em aparente estado comatoso pelos três séculos que
@@ -2818,8 +2780,7 @@ noções de poda ao se alimentar da planta.
 E não eram somente os mosteiros os grandes consumidores, mas também as
 universidades, os asilos, hospitais e hospedarias.
 
-Como se fazia vinho na Idade Média
-----------------------------------
+## Como se fazia vinho na Idade Média
 
 Da Alta Idade Média até o século 18, muita coisa avançou no Ocidente:
 o latim perdeu a prima- zia para as línguas vernáculas (a do povo) que
@@ -2849,7 +2810,7 @@ suas próprias raízes era separado da videira-mãe e replantado. O novo
 vinhedo resultan- te da *marcottage* podia produzir frutos em dois ou
 três anos.
 
-### As castas. Vinho de garrafão, vinho fino
+### As castas: vinho de garrafão, vinho fino
 
 Na Idade Média, como hoje, a seleção das castas era fundamental. Na
 dúvida, o viticultor medieval de recursos limitados misturava castas
@@ -2875,7 +2836,7 @@ prestígio, sobretudo no Norte, de modo geral, a cor era um aspecto
 secundário. Provavelmente o vinho mais comum era tinto claro
 (*clairet*, em francês) ou bran- co com leve tom rosado.
 
-1.  **A primeira *appellation contrôlée***
+### A primeira *appellation contrôlée*
 
 Corriam as primeiras décadas de 1300. O papa Clemente V havia
 transferido a Santa Sé para Avignon, onde ali por 70 anos os papas
@@ -2945,7 +2906,7 @@ mentação, desprendia-se o dióxido de carbono (que se forma com o
 álcool e o calor), e não raro alguém morria pela inalação do gás
 carbônico.
 
-### As prensas. Vin de goutte e vin de presse
+### As prensas: *vin de goutte e vin de presse*
 
 Na Idade Média, a prensa era equipamento que somente as grandes
 propriedades de nobres ou da Igreja podiam ter. Eram peças maciças e
@@ -2960,8 +2921,7 @@ imediato. Podia-se muito bem fabricar bom vinho sem prensa, mas
 naturalmente o vinho de presse vendido em garrafões valia em dinheiro
 o esforço.
 
-Mudança na vinificação dos séc. 17 e 18
----------------------------------------
+## Mudança na vinificação dos séc. 17 e 18
 
 Nos séculos 17 e 18, a vinificação tem por princi- pal objetivo a
 durabilidade. O vinho novo podia pro-
@@ -2972,8 +2932,7 @@ pudesse amadurecer. Para tanto, o vinho de prensa era um preservativo
 essencial para o amadurecimento, segundo o Théâtre d’Agriculture de
 1804.
 
-Primeiro livro sobre vinhos da Idade Média
-------------------------------------------
+## Primeiro livro sobre vinhos da Idade Média
 
 O primeiro livro sobre vinho a ser publicado é o *Líber de Vinis*, de
 Arnaldus de Villanova (c. 1235- 1313), um médico provavelmente
@@ -2992,8 +2951,7 @@ ga de um barril a outro, assim como oferece uma extensa relação de
 vinhos aromatizados como remédios para todo tipo de doença. Quase tão
 extensa quanto a de Plínio, o Velho.
 
-Degustações na Idade Média
---------------------------
+## Degustações na Idade Média
 
 Aparentemente, não eram só os beneditinos e os cistercienses que
 entendiam de vinhos. Os frades dominicanos também eram experientes
@@ -3016,8 +2974,7 @@ desabrocha suavemente ao entrar na boca, acaricia as narinas e
 conforta o cére- bro, seduzindo o palato de forma delicada, mas vigo-
 rosa \[...\]”.
 
-A crítica ao enochato. Modos à mesa e taças individuais
--------------------------------------------------------
+## A crítica ao *enochato.* Modos à mesa e taças individuais
 
 De todos esses autores medievais, o mais ori- ginal e preciso é o
 catalão Francesc Eiximenis (1327- 1409), autor de uma enciclopédia de
@@ -3043,8 +3000,7 @@ censura os que “curio- samente seguram a taça com três dedos”. Elogia
 os italianos por servirem a todos taças individuais, enquanto o resto
 da Europa aparentemente se con- tenta em passar o copo.xl
 
-O vinho ideal. Água para não se embriagar
------------------------------------------
+## O vinho ideal: água para não se embriagar
 
 Eiximenis é igualmente preciso com relação às qualidades do vinho
 ideal. Deve ser puro, fresco, for- te, aromático, borbulhante,
@@ -3060,8 +3016,7 @@ acordo
 com ela. Ainda hoje, na Espanha, se mantém o cos- tume de diluir com
 água o vinho do dia-a-dia.
 
-Enxofre e anidrido sulfuroso
-----------------------------
+## Enxofre e anidrido sulfuroso
 
 Certamente o *vin de presse* não garantia a durabilidade desejada para
 os vinhos. Assim, em 1487, se dá na Alemanha uma importante alteração:
@@ -3091,8 +3046,7 @@ vinhos (não os melhores) contêm. Uma sensação de ferroada no nariz ou
 na garganta ou o cheiro de fós- foro apagado, que todavia logo
 desaparece, revelam a presença do anidrido.
 
-Champanhe, o triângulo sagrado
-------------------------------
+## Champanhe, o triângulo sagrado
 
 O vinho espumante das festas, que encanta e atordoa, não foi
 descoberto ou criado da noite para o dia. Nasceu no chamado “triângulo
@@ -3119,8 +3073,7 @@ laram. A terceira ponta do triângulo é Châlons-en- Champagne. Conta
 com 28 km de caves de *cham- pagne,* abrigadas nas galerias dos
 antigos túneis galo-romanos.
 
-Dom Pèrignon e o Senhor Rojão
------------------------------
+## Dom Pèrignon e o Senhor Rojão
 
 O champanhe, como já se disse, não foi “des- coberto” de um dia para
 outro. Nem de uma década para outra. Foi sim uma suspeita percebida e
@@ -3209,7 +3162,7 @@ corta o bolo de uvas antes de recolocá-lo na prensa), por serem de boa
 qualidade. E assim, o monge con- seguiu obter um vinho de grande
 qualidade.
 
-8.  **A *assemblage* do monge**
+## A *assemblage* do monge
 
 Embora misturar vinhos fosse uma prática comum, dom Pérignon
 descobrira que misturar uvas de vários vinheiros antes de prensá-las
@@ -3244,8 +3197,7 @@ ser profundas
 
 com temperatura constante para evitar que as gar- rafas explodissem.
 
-A máscara de ferro
-------------------
+## A máscara de ferro
 
 Dom Ruinart, monge também, descobriu sob a cidade de Reims gigantescas
 pedreiras de calcário escavadas pelos galo-romanos em forma de túnel.
@@ -3264,8 +3216,7 @@ das garrafas de champa- nhe, o tamanho da rolha (3,75 centímetros de
 com- primento) e a maneira como se devia prendê-la ao gargalo com um
 barbante grosso.
 
-Uma Viúva para resolver o problema
-----------------------------------
+## Uma Viúva para resolver o problema
 
 Restava ainda o problema do sedimento. Como já vimos, a refermentação
 produz um resíduo de células mortas de levedura, que se depositam nas
@@ -3289,8 +3240,7 @@ conhecida como
 
 “La Grande Dame de la Champagne” por sua audá- cia e determinação.
 
-A filoxera
-----------
+## A filoxera
 
 As pragas tomaram de assalto e devastaram as vinhas européias,
 empurradas pelo progresso do final do século 19.
@@ -3329,8 +3279,7 @@ que as possibilidades desta obra. Fica a sugestão de leitura da obra
 de Hugh Johnson e da revista História Viva, em sua edição temática
 sobre vinhos.
 
-Bibliografia e Indicações para Leitura
-======================================
+# Bibliografia e indicações para leitura
 
 **Associação Brasileira de Sommeliers/São Paulo** - Curso Básico de
 Vinhos, 2006
@@ -3353,8 +3302,7 @@ São Paulo, Larousse do Brasil, 2004.
 **MacNeil, Karen** – A Bíblia do Vinho. Trad. Laura Alves e Aurélio
 Rebello, Rio, Ediouro, 2003
 
-Notas
-=====
+# Notas
 
 i LAROUSSE DO VINHO, p. 15.
 
@@ -3479,7 +3427,9 @@ medievais. Revista Tempo (UFF), v. 9 n. 17, p. 9-32, 2004.
 ![](media/image10.png){width="2.46667104111986in"
 height="1.8499989063867017in"}
 
-### Silvia Cintra Franco
+# Sobre as autoras
+
+**Silvia Cintra Franco**
 
 Autora de obras de literatura e ensaios sobre cultura e antropologia,
 cidadania e dinheiro público, a paulistana Silvia Cintra Franco, que
@@ -3493,7 +3443,7 @@ além de nossa Serra Gaúcha. E acredita firmemente que o que faz o bom
 vinho é o momento e a boa companhia. É co-autora com a chef Renata
 Braune de “O que é Gastronomia?”
 
-### Renata Braune
+**Renata Braune**
 
 Carioca criada em São Paulo, é chef formada pela École Le Cordon Bleu,
 a mais antiga e tradicio- nal escola de cozinha da França. Estagiou no
@@ -3503,186 +3453,3 @@ chef-consultora (e responsável pelas cartas de vinhos e harmonizações)
 dos restau- rantes Chef Rouge Morumbi e Bela Cintra, Lucca Ristorante
 (SP) e Oscar (Brasília). Presta assessoria na elaboração de cardápios
 em restaurantes no Bra- sil e fora do país.
-
-![](media/image11.png){width="0.6837040682414698in"
-height="0.12298556430446195in"}**Uma Enciclopédia Crítica**
-
-ABORTO
-
-AÇÃO CULTURAL ACUPUNTURA ADMINISTRAÇÃO ADOLESCÊNCIA AGRICULTURA
-SUSTENTÁVEL AIDS
-
-AIDS - 2ª VISÃO ALCOOLISMO ALIENAÇÃO ALQUIMIA ANARQUISMO ANGÚSTIA
-APARTAÇÃO ARQUITETURA ARTE
-
-ASSENTAMENTOS RURAIS ASSESSORIA DE IMPRENSA ASTROLOGIA
-
-ASTRONOMIA ATOR
-
-AUTONOMIA OPERÁRIA AVENTURA
-
-BARALHO BELEZA BENZEÇÃO BIBLIOTECA BIOÉTICA
-
-BOLSA DE VALORES BRINQUEDO BUDISMO BUROCRACIA CAPITAL
-
-CAPITAL INTERNACIONAL CAPITALISMO CETICISMO
-
-CIDADANIA CIDADE
-
-CIÊNCIAS COGNITIVAS CINEMA COMPUTADOR COMUNICAÇÃO COMUNICAÇÃO
-EMPRESARIAL
-
-COMUNICAÇÃO RURAL
-
-COMUNDADE ECLESIAL DE BASE
-
-COMUNIDADES ALTERNATIVAS CONSTITUINTE CONTO CONTRACEPÇÃO CONTRACULTURA
-COOPERATIVISMO CORPO CORPOLATRIA CRIANÇA
-
-CRIME CULTURA
-
-CULTURA POPULAR DARWINISMO
-
-DEFESA DO CONSUMIDOR DEFICIÊNCIA DEMOCRACIA DEPRESSÃO
-
-DEPUTADO DESIGN
-
-DESOBEDIÊNCIA CIVIL DIALÉTICA DIPLOMACIA
-
-DIREITO
-
-DIREITO AUTORAL DIREITOS DA PESSOA DIREITOS HUMANOS DIREITOS HUMANOS
-DA MULHER DOCUMENTAÇÃO DRAMATURGIA ECOLOGIA
-
-EDITORA EDUCAÇÃO
-
-EDUCAÇÃO AMBIENTAL EDUCAÇÃO FÍSICA EMPREGOS E SALÁRIOS EMPRESA
-
-ENERGIA NUCLEAR ENFERMAGEM ENGENHARIA FLORESTAL ESCOLHA PROFISSIONAL
-ESCRITA FEMININA ESPERANTO ESPIRITISMO ESPIRITISMO 2ª VISÃO ESPORTE
-
-ESTATÍSTICA
-
-ESTRUTURA SINDICAL ÉTICA ETNOCENTRISMO EXISTENCIALISMO FAMÍLIA
-
-FANZINE FEMINISMO FICÇÃO
-
-FICÇÃO CIENTÍFICA FILATELIA FILOSOFIA
-
-FILOSOFIA DA MENTE FILOSOFIA MEDIEVAL FÍSICA
-
-FMI FOLCLORE FOME FOTOGRAFIA
-
-FUNCIONÁRIO PÚBLICO FUTEBOL GASTRONOMIA GEOGRAFIA GEOPOLÍTICA
-
-GESTO MUSICAL GOLPE DE ESTADO GRAFFITI GRAFOLOGIA GREVE
-
-GUERRA
-
-HABEAS CORPUS HERÓI HIEROGLIFOS HIPNOTISMO
-
-HISTÓRIA EM QUADRINHOS HISTÓRIA
-
-HISTÓRIA DA CIÊNCIA HISTÓRIA DAS MENTALIDADES HOMEOPATIA
-HOMOSSEXUALIDADE IDEOLOGIA
-
-IGREJA IMAGINÁRIO IMORALIDADE IMPERIALISMO
-
-INDÚSTRIA CULTURAL
-
-INFLAÇÃO INFORMÁTICA
-
-![](media/image12.png){width="0.6837040682414698in"
-height="0.12298556430446195in"}**Uma Enciclopédia Crítica**
-
-INFORMÁTICA 2ª VISÃO INTELECTUAIS INTELIGÊNCIA ARTIFICIAL IOGA
-
-ISLAMISMO JAZZ JORNALISMO
-
-JORNALISMO SINDICAL JUDAÍSMO
-
-JUSTIÇA LAZER
-
-LEGALIZAÇÃO DAS DROGAS LEITURA
-
-LESBIANISMO LIBERDADE LÍNGUA LINGÜÍSTICA
-
-LITERATURA INFANTIL LITERATURA DE CORDEL LIVRO-REPORTAGEM LIXO
-
-LOUCURA MAGIA MAIS-VALIA MARKETING
-
-MARKETING POLÍTICO MARXISMO MATERIALISMO DIALÉTICO MEDIAÇÃO DE
-CONFLITOS MEDICINA ALTERNATIVA MEDICINA POPULAR MEDICINA PREVENTIVA
-MEIO AMBIENTE
-
-MENOR
-
-MÉTODO PAULO FREIRE MITO
-
-MORAL MORTE
-
-MULTINACIONAIS MUSEU
-
-MÚSICA
-
-MÚSICA BRASILEIRA MÚSICA SERTANEJA NATUREZA NAZISMO NEGRITUDE NEUROSE
-
-NORDESTE BRASILEIRO
-
-OCEANOGRAFIA OLIMPISMO ONG
-
-OPINIÃO PÚBLICA ORIENTAÇÃO SEXUAL PANTANAL PARLAMENTARISMO
-PARLAMENTARISMO MONÁRQUICO PARTICIPAÇÃO PARTICIPAÇÃO POLÍTICA
-PEDAGOGIA
-
-PENA DE MORTE PÊNIS
-
-PERIFERIA URBANA PESSOAS DEFICIENTES PODER
-
-PODER LEGISLATIVO PODER LOCAL POLÍTICA
-
-POLÍTICA CULTURAL POLÍTICA EDUCACIONAL POLÍTICA NUCLEAR POLÍTICA
-SOCIAL POLUIÇÃO QUÍMICA PORNOGRAFIA
-
-PÓS-MODERNO POSITIVISMO PRAGMATISMO PREVENÇÃO DE DROGAS PROGRAMAÇÃO
-PROPAGANDA IDEOLÓGICA PSICANÁLISE 2ª VISÃO PSICODRAMA
-
-PSICOLOGIA
-
-PSICOLOGIA COMUNITÁRIA PSICOLOGIA SOCIAL PSICOTERAPIA PSICOTERAPIA DE
-FAMÍLIA PSIQUIATRIA ALTERNATIVA PUNK
-
-QUESTÃO AGRÁRIA QUESTÃO DA DÍVIDA EXTERNA
-
-QUÍMICA RACISMO
-
-RÁDIO EM ONDAS CURTAS RADIOATIVIDADE REALIDADE
-
-RECESSÃO
-
-RECURSOS HUMANOS REFORMA AGRÁRIA RELAÇÕES INTERNACIONAIS REMÉDIO
-
-RETÓRICA REVOLUÇÃO ROBÓTICA ROCK
-
-ROMANCE POLICIAL SEGURANÇA DO TRABALHO SEMIÓTICA
-
-SERVIÇO SOCIAL SINDICALISMO SOCIOBIOLOGIA SOCIOLOGIA
-
-SOCIOLOGIA DO ESPORTE STRESS SUBDESENVOLVIMENTO SUICÍDIO
-
-SUPERSTIÇÃO TABU
-
-TARÔ TAYLORISMO TEATRO
-
-TEATRO INFANTIL TEATRO NÔ TECNOLOGIA TELENOVELA TEORIA TOXICOMANIA
-TRABALHO TRADUÇÃO TRÂNSITO
-
-TRANSPORTE URBANO TROTSKISMO UMBANDA UNIVERSIDADE URBANISMO
-
-UTOPIA VELHICE VEREADOR VÍDEO VIOLÊNCIA
-
-VIOLÊNCIA CONTRA A MULHER
-
-VIOLÊNCIA URBANA XADREZ ZEN
-
-ZOOLOGIA
