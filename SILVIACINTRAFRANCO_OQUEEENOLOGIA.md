@@ -33,15 +33,13 @@ caleidoscópico”, pois, uma vez vertido na taça, oferece um leque
 complexo de cores, aromas e sabores – impressões táteis, gustativas,
 olfativas e visuais – que se sucedem, surpreendem e seduzem. E isso se
 dá porque o vinho está vivo, evolui da juventude à maturidade e de
-lá à decadência. Se no passado, o ideal era esperar que o vinho che-
-gasse à maturidade para bebê-lo, hoje a grande maioria dos vinhos
+lá à decadência. Se no passado, o ideal era esperar que o vinho chegasse à maturidade para bebê-lo, hoje a grande maioria dos vinhos
 chega ao mercado como as roupas às lojas: *prêt-a-boire*, pronto
 para beber.
 
-No entanto, o vinho – que é elemento de rito e de religião - é também
+No entanto, o vinho – que é elemento de rito e de religião – é também
 mercadoria. Sofre com problemas de distribuição, com impostos e
-tarifas alfan-
-degárias, está sujeito às leis do mercado e da moda; resiste às
+tarifas alfandegárias, está sujeito às leis do mercado e da moda; resiste às
 revoluções e guerras, mas sucumbe frente aos humores da natureza, às
 chuvas torrenciais, ao granizo, às pragas, à má vinificação e à
 fraude, incompetência e ganância dos homens.
@@ -66,7 +64,6 @@ gentilmente a uma agradável alegria.*
 Embora o vinho seja produzido há milênios, a vinificação
 (transformação da uva em vinho) percorreu um longo caminho até se
 tornar ciência em meados do século XX com a enologia (do grego *eno*
-
 = vinho; *logia* = estudo).
 
 E o que é o vinho? Segundo definição do Office International de la
@@ -82,28 +79,29 @@ descoberta desse processo se deve ao químico francês Louis Pasteur
 (1822-1895).
 
 Vale a pena recordar o que é fermentação: um processo bioquímico
-realizado por microorganismos que transformam moléculas de
+realizado por micro-organismos que transformam moléculas de
 carboidratos (açúcares) em álcool, gás carbônico e energia (calor).
 No caso do vinho, os açúcares das uvas são transformados em álcool
-pela ação de microorganismos do tipo leveduras, semelhantes aos usados
+pela ação de micro-organismos do tipo leveduras, semelhantes aos usados
 para fazer pão.
 
 Na criação de um bom vinho, a intuição, a competência, o nariz
-sensível e as papilas afiadas do enólogo - o responsável pela
-produção do vinho - são tão importantes quanto a bioquímica e os
+sensível e as papilas afiadas do enólogo – o responsável pela
+produção do vinho – são tão importantes quanto a bioquímica e os
 laboratórios. Se o *winemaker* (“fazedor de vinho”, o enólogo em
-inglês) for sábio, há de valorizar as técnicas artesanais apri-
-moradas de geração em geração pela gente da terra; e se for genial, há
+inglês) for sábio, há de valorizar as técnicas artesanais aprimoradas de geração em geração pela gente da terra; e se for genial, há
 de criar novos e bons vinhos.
 
 Para o francês Michel Rolland, enólogo consultor de vinícolas
-européias, chilenas, argentinas, californianas e brasileiras, o
+europeias, chilenas, argentinas, californianas e brasileiras, o
 momento de criação do
 vinho se dá diante de diversos lotes de vinhos, provenientes de
 diferentes *terroirs*, de cepas variadas, de vinhas de idades diversas
 e de vinhos vinificados separadamente. “Meu papel é então experimentar
 cada lote separadamente, depois mesclar aqueles que me parecem
-interessantes reunir para ‘fazer um vinho’”.i
+interessantes reunir para ‘fazer um vinho’”.[^footnote1]
+
+[^footnote1]: LAROUSSE DO VINHO, p. 15.
 
 Há também empresas, como a californiana Enologix, que desenvolvem
 fórmulas científicas para produzir vinhos. Para tanto, basta o cliente
@@ -140,8 +138,8 @@ nas tabelas com as notas 1 ou 2, geralmente significam uvas aguadas,
 sem concentração de açúcares ou insuficientemente maduras, por conta
 de mau tempo.
 
-Quando o clima é favorável, as frutas se desenvolvem e - chegada a
-colheita - estão adequadamente maduras para se constituírem em
+Quando o clima é favorável, as frutas se desenvolvem e – chegada a
+colheita – estão adequadamente maduras para se constituírem em
 matéria-prima de excelente qualidade. Assim, o enófilo, ao topar com
 uma garrafa de vinho da região de Rioja, Espanha, cuja safra de 2005
 recebeu nota 10, sabe que está diante de um exemplar de uma grande
@@ -159,15 +157,14 @@ viticultura (cultivo da vinha, plantação etc.) assim como para a da
 vinificação (confecção do vinho).
 
 Em seu projeto inicial, o enólogo há de especificar qual será a
-espécie de uva selecionada. Os bons vinhos – os chamados vinhos finos
-- são feitos a partir de uvas *Vitis vinifera*, videiras de origem
-européia e não de quaisquer outras como as americanas *Vitis labrusca*
+espécie de uva selecionada. Os bons vinhos – os chamados vinhos – finos são feitos a partir de uvas *Vitis vinifera*, videiras de origem
+europeia e não de quaisquer outras como as americanas *Vitis labrusca*
 ou *Vitis bourquina* que têm seu uso assegurado para enxerto, como
 veremos mais adiante.
 
 A *Vitis vinifera* é videira que pertence a uma família de trepadeiras
 com mais de quarenta espécies incluídas sob o mesmo gênero botânico
-*Vitis*. E o termo latino *vinifera* inclui a idéia de *vino* (vinho)
+*Vitis*. E o termo latino *vinifera* inclui a ideia de *vino* (vinho)
 e do verbo *fero* (suportar, carregar). Assim, a tradução ao pé da
 letra de *Vitis vinifera* seria “a vitis que sustenta o vinho”. A
 diferença entre a *Vitis vinifera*
@@ -191,8 +188,7 @@ solo, da topografia (encosta, vale), dos ventos e do clima para saber
 quais as cepas que melhor se adaptam às condições do local: se
 Cabernet Sauvignon, Merlot, Chardonnay etc. Há milhares de cepas
 nesse mundo e as mais famosas são as francesas Cabernet Sauvignon,
-Merlot, Pinot Noir, que fazem vinho tinto, e as bran-
-cas Chardonnay e Sauvignon Blanc. São plantadas nas mais diversas
+Merlot, Pinot Noir, que fazem vinho tinto, e as brancas Chardonnay e Sauvignon Blanc. São plantadas nas mais diversas
 regiões do globo.
 
 Há, entretanto, regiões na Itália, Espanha e Portugal, para citar
@@ -217,7 +213,7 @@ importantes.
 
 ### *Terroir*
 
-*Cada terroir tem sua voz, sua mensagem.*
+*Cada *terroir* tem sua voz, sua mensagem.*
 
 *Lalou Bize-Leroy*
 
@@ -228,7 +224,7 @@ serras, ventos, insolação etc.) de um terreno ou micro-climas; são
 elas que fazem a diferença entre um vinho e outro e lhes dão
 personalidade própria. Experimente um Pinot Noir da Borgonha e um do
 Oregon (EUA) ou da Patagônia argentina. São muito diferentes entre si.
-Enfim, as uvas viajam, o terroir não.
+Enfim, as uvas viajam, o *terroir* não.
 
 A enóloga argentina Susana Balbo aponta como vantagens do *terroir*
 argentino as diferenças de altitude além das grandes amplitudes
@@ -239,11 +235,16 @@ distintos solos e uma luz maravilhosa que permite amadurecer as uvas
 até o ponto desejado. Temos uma vitivinicultura de diversidade, com
 o clima apropriado para a
 variedade que você quiser: brancos, tintos, rosados, Malbec, Cabernet,
-Bonarda etc.”ii
+Bonarda etc.”[^footnote2]
+
+[^footnote2]: REVISTA ADEGA, nº 18, p. 15, Inner,2007.
 
 A qualidade do solo é outra característica da videira que prefere os
 argilosos, pedregosos e pobres em nutrientes. Segundo Michel Rolland,
-“as terras muito ricas não fazem os grande vinhos.” iii
+“as terras muito ricas não fazem os grande vinhos.” [^footnote3]
+
+[^footnote3]: LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho,
+São Paulo, Larousse do Brasil, 2004. p. 16.
 
 Ideais para a *Vitis vinifera* são os solos de textura média, bem
 drenados (não retêm água), que obrigam a videira a ir fundo, a
@@ -282,7 +283,9 @@ esta razão que “os produtores de vinhos adicionam o dióxido de enxofre
 (SO2) durante o esmagamento das uvas, visando impedir o crescimento
 destas cepas selvagens e preparando o mosto para a inoculação de
 leveduras selecionadas”, esclarece o
-curso básico da Associação Brasileira de Sommeliers – ABS/SP.iv
+curso básico da Associação Brasileira de Sommeliers – ABS/SP.[^footnote4]
+
+[^footnote4]: PAPER CURSO BÁSICO 2006 da Associação Brasileira de Sommeliers – São Paulo, p. 38.
 
 Considerando que as necessidades da vinha são luz, calor e água, não
 necessariamente nessa ordem, a tendência atual é plantar as vinhas em
@@ -297,7 +300,10 @@ videiras.
 
 *Vinho não é poesia, é ciência.*
 
-*Riccardo Cotarellav*
+*Riccardo Cotarellav*[^footnote5]
+
+[^footnote5]: REVISTA WINE STYLE, o vinho tratado com inteligência, safra
+2005/setembro/outubro, p. 33.
 
 Também em enologia *menos é mais*. Para obter vinhos maravilhosos, há
 que priorizar qualidade em vez de quantidade, o que significa podar as
@@ -305,9 +311,7 @@ videiras duas vezes ao ano, uma no inverno e outra no verão, a chamada
 “poda ou vindima verde” (cachos retirados dois meses antes da
 colheita para que outros possam se expandir melhor), de modo a
 “programar” o número de cachos por videira. Um pé com
-
 *menos* cachos, oferece uvas *mais* concentradas com
-
 *mais* qualidade.
 
 A tendência hoje em dia é aumentar a densidade da plantação e
@@ -317,7 +321,10 @@ o rendimento das vinhas é medido pelos franceses em hectolitros por
 hectare de plantação. Só para recordar: um hectolitro (hl) é igual a
 100 litros e um hectare, a 10 mil metros quadrados, “equivalentes, por
 exemplo, a um terreno de 100 X 100 metros (cerca de um quarteirão
-numa cidade)”.vi
+numa cidade)”.[^footnote6]
+
+[^footnote6]: AMARANTE, JOSÉ OSVALDO ALBANO DO – Os segredos do vinho para iniciantes e iniciados. São Paulo. Mescla, 2005,
+p. 128.
 
 Para garantir a qualidade de seus vinhos, as grandes *maisons* limitam
 os rendimentos em 50 hl/ha, ou seja, 6.600 garrafas por hectare como
@@ -325,17 +332,19 @@ rendimento razoável para os grandes vinhos, informa o Larousse do
 Vinho.
 
 Assim, no Pomerol (Bordeaux), o rendimento é de 42 hl/ha, enquanto em
-Sauternes e Barsac (Bordeaux) é de 25 hectolitros por hectare. Na nos-
-sa Serra Gaúcha, conforme Amarante,“são comuns as colheitas de 8 a 30
+Sauternes e Barsac (Bordeaux) é de 25 hectolitros por hectare. Na nossa Serra Gaúcha, conforme Amarante,“são comuns as colheitas de 8 a 30
 toneladas de uvas por hectare, em vinhedos em pérgola. Esse valor
 significa altíssimos rendimentos, da ordem de 56 a 210
-hl/ha”.vii A plantação em pérgola é aquela em que a videira, como boa
+hl/ha”.[^footnote7] A plantação em pérgola é aquela em que a videira, como boa
 trepadeira que é, sobe e se esparrama como um “telhado”, sustentada
 por arames, formando uma pérgola. Esse método dificulta a insolação
 de todos os bagos. O ideal é a espaldeira: as videiras são plantadas
 linearmente a pequena distância umas das outras, dando lugar para
 que os raios solares penetrem. A região de Bento Gonçalves vem fazendo
 de forma gradual essa mudança...
+
+[^footnote7]: AMARANTE, JOSÉ OSVALDO ALBANO DO – Os segredos do vinho para iniciantes e iniciados. São Paulo. Mescla, 2005,
+p. 128-129.
 
 Vale considerar também que na cadeia de produção do vinho coexistem em
 equilíbrio precário e conflitante o viticultor, que planta as uvas e
@@ -346,8 +355,7 @@ vinícolas costumam reunir sob o mesmo teto vinhedo e vinícola.
 
 A densidade de plantas por hectare depende de legislação local nos
 países europeus além da disponibilidade de terras e da tradição. A
-produção por pé de videira depende do grau de exigência por qualida-
-de: há casas vinícolas que produzem menos de uma garrafa de vinho por
+produção por pé de videira depende do grau de exigência por qualidade: há casas vinícolas que produzem menos de uma garrafa de vinho por
 pé. Em Sauternes, por exemplo, pode-se chegar a ter apenas um cálice
 por pé!
 
@@ -355,15 +363,17 @@ por pé!
 
 *O vinho é filho de sua terra e não do winemaking.*
 
-*Lalou Bize-Leroyviii*
+*Lalou Bize-Leroy*[^footnote8]
+
+[^footnote8]: REVISTA WINE STYLE, 2007 p. 47.
 
 Nosso enólogo deverá também ser paciente, pois as videiras exigem um
 mínimo de quatro anos para começar a produzir uvas que resultem em
 vinhos finos. E estará naturalmente atento ao ciclo da videira:
 
-Repouso no inverno;
+>Repouso no inverno;
 
-Despertar na primavera quando a seiva se espreguiça e começa a
+>Despertar na primavera quando a seiva se espreguiça e começa a
 porejar nas extremidades podadas de seus galhos. O fenômeno
 conhecido como “choro da videira” é a alegria do enólogo, pois ele já
 pode marcar na agenda que, por volta de 120 dias contados a partir
@@ -371,10 +381,10 @@ desse momento, se dará a colheita. Esses 120 dias é o tempo necessário
 para que a videira entre na fase de crescimento vegetativo: brotação,
 ramificação e, por último e mais importante, a frutificação.
 
-No verão, os frutos já devem ter alcançado a maturidade, com muito
+>No verão, os frutos já devem ter alcançado a maturidade, com muito
 açúcar e baixa acidez em seus bagos.
 
-Após a colheita, as folhas caem e a parreira volta ao repouso.
+>Após a colheita, as folhas caem e a parreira volta ao repouso.
 
 ### A vindima: nervos de aço e tecnologia de ponta
 
@@ -385,7 +395,9 @@ que se quer fazer: se branco, tinto ou rosado.
 Para o enólogo Michel Rolland, “um bom vinho é, no caso dos brancos,
 aquele que tem uma bela definição aromática, uma harmonia entre a
 acidez e o álcool e, no caso dos tintos, uma bela qualidade de
-tanino.” ix
+tanino.”[^footnote9]
+
+[^footnote9]: LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho, São Paulo, Larousse do Brasil, 2004. p. 16.
 
 A acidez de um vinho provoca salivação (justamente para diminuir a
 acidez na boca) e é bom acompanhante para a comida.
@@ -407,7 +419,7 @@ E, qualquer que tenha sido o tipo de vinho escolhido, se a opção foi
 por um vinho potente, isto é, alcoólico, a maturação das uvas terá de
 ser muito boa e a atenção redobrada, pois à medida que as uvas
 amadurecem, perdem em acidez e vão ganhando em açúcar até o ponto em
-que... o açúcar pára de se formar (o que pode ser um desastre) e os
+que... o açúcar para de se formar (o que pode ser um desastre) e os
 ácidos, indiferentes, continuam a desaparecer.
 
 Assim, uma vez que as uvas tenham alcançado os parâmetros
@@ -423,9 +435,12 @@ há de monitorar com nervos de aço e auxilio de tecnologia o grau de
 amadurecimento de suas uvas.
 
 A maturação das uvas não se resume à do teor alcoólico, mas engloba os
-seguintes índicesx:
+seguintes índices:[^footnote10]
 
-*Teor de açúcar ou grau glucométrico*. Medido com refratômetro ou
+[^footnote10]: CELITO CRIVELLARO GUERRA, MAURO CELSO ZANUS – Uvas viníferas para processamento em regiões de clima temperado.
+Embrapa. Versão eletrônica jul/2003.
+
+>*Teor de açúcar ou grau glucométrico*. Medido com refratômetro ou
 densímetro (mostímetro). Este índice é absolutamente importante, pois
 informa o grau alcoólico do vinho a ser produzido com as uvas.
 Sabendo-se que 18 gramas (há quem diga 17 e quem fale em 16,5) de
@@ -435,13 +450,12 @@ estão “no ponto”. Enfim, antes de iniciar a colheita é necessário
 medir o teor de açúcar para saber se este atende à graduação alcoólica
 desejada para o vinho a ser produzido;
 
-*Teor em ácidos*. Avaliado em conjunto com o de açúcares, pois como
+>*Teor em ácidos*. Avaliado em conjunto com o de açúcares, pois como
 já se viu, o equilíbrio entre açúcar e acidez é fundamental para a
-qualidade gustativa do vinho. Um doce de fruta em compota muito açu-
-carado tem sabor tão desagradável quanto o de um doce muito ácido. É o
+qualidade gustativa do vinho. Um doce de fruta em compota muito açucarado tem sabor tão desagradável quanto o de um doce muito ácido. É o
 equilíbrio entre acidez e açúcar que faz a qualidade;
 
-*Teor de maturação fenólica*. A uva, como outras frutas, tem
+>*Teor de maturação fenólica*. A uva, como outras frutas, tem
 diversos componentes. Alguns deles, como os polifenóis (pigmentos e
 taninos), são fundamentais para se fazer um bom vinho. Por isso, é
 importante avaliar a sua maturação: colhem-se amostras do vinhedo,
@@ -470,7 +484,7 @@ quilos de uvas. E a chilena Cono Sur, para fazer o Ocio, usa caixas de
 Colhidas, as uvas vão imediatamente para a cantina, onde será feito o
 vinho.
 
-## A vinificação --- Vinhos tintos
+## A vinificação  –  Vinhos tintos
 
 *Não se mudar de vinho é uma heresia; a língua se satura e, depois do
 terceiro copo, o melhor dos vinhos produz apenas uma sensação
@@ -519,8 +533,8 @@ a ser visto mais adiante.
 
 Finalizada a fermentação, temos na cuba (de aço inox) o vinho líquido
 e também o bagaço e a borra que ainda retêm líquido. É o momento de
-separálos: escorre-se cuidadosamente numa outra cuba o vinho, agora
-chamado de “vinho de gota” ou vinhoflor. E ao bagaço e à borra dá-se
+separá-los: escorre-se cuidadosamente numa outra cuba o vinho, agora
+chamado de “vinho de gota” ou vinho-flor. E ao bagaço e à borra dá-se
 uma verdadeira “prensa” para extrair o vinho neles retido, que passa a
 ser chamado de “vinho de prensa”, aquele que foi retirado “na marra”.
 Ao destilar-se este vinho de prensa, obtém-se a bagaceira, ou *marc*
@@ -589,7 +603,7 @@ que o esperado.
 Também pode acontecer de a safra não ter sido boa e as uvas não terem
 amadurecido como era de se esperar. Falta-lhes então o açúcar
 necessário para que o vinho alcance o grau de teor alcoólico desejado.
-Para contornar esse problema, descobriuse no século 19 uma solução
+Para contornar esse problema, descobriu-se no século 19 uma solução
 pragmática. É a *chaptalização*, cujo nome deriva de seu inventor, o
 químico francês Jean-Antoine Chaptal (1756-1832).
 
@@ -598,7 +612,9 @@ beterraba (no Brasil, de cana) ou de suco de uva não fermentado.
 Conforme o Larousse do Vinho, “todo o volume de açúcar acrescentado se
 converte em álcool e aumenta de maneira não desprezível a quantidade
 de vinho que se pode fazer numa dada safra: 3,5 kg por hectolitro de
-mosto”.xi
+mosto”.[^footnote11]
+
+[^footnote11]: LAROUSSE DO VINHO, p. 70.
 
 A chaptalização está autorizada na Alemanha, em algumas regiões da
 França e dos Estados Unidos. É prática proibida no sul da França, na
@@ -621,21 +637,19 @@ mais elevada.
 
 E se o que se quer é um vinho tinto bem concentrado, o caminho é
 reduzir os sucos antes da fermentação. A redução se faz por meio de
-sangria, isto é, escoa-se parte do suco ou filtra-se o mosto (filtra-
-ção tangencial ou osmose reversa) para retirar água.
+sangria, isto é, escoa-se parte do suco ou filtra-se o mosto (filtração tangencial ou osmose reversa) para retirar água.
 
 Ao final da fermentação do vinho tinto, pode-se usar a *técnica
 bordalesa*: deixar repousar o vinho recém elaborado sobre suas borras
 em barris fechados com um tampão de vidro para que o gás carbônico
 possa sair. Nosso enólogo não poderá, entretanto, deixar de completar
-semanalmente cada barril (atestos) até que o novo vinho se esta-
-bilize. Se esquecer, a parte do barril sem vinho cede espaço para o
+semanalmente cada barril (atestos) até que o novo vinho se estabilize. Se esquecer, a parte do barril sem vinho cede espaço para o
 ar, que leva o vinho à oxidação. A partir de então, os barris são
-tampados e deixase o vinho descansar.
+tampados e deixa-se o vinho descansar.
 
-1.  **De *guest star* a *persona non grata*: a fermentação maloláctica**
+### De *guest star* a *persona non grata:* a fermentação maloláctica**
 
-As leveduras não são os únicos microorganismos responsáveis pela
+As leveduras não são os únicos micro-organismos responsáveis pela
 fermentação do vinho. Elas dividem o palco com as bactérias, que ao
 contrário dos artistas convidados, nem sempre são bem-vindas.
 
@@ -643,14 +657,15 @@ A fermentação maloláctica acontece de forma bem poética: “na
 primavera, no momento do desabrochamento da vinha, isto é, quando os
 rebentos aparecem, os vinhos em barris numa adega tradicional
 começam a trabalhar. Eles murmuram e borbulham de fato, como se
-estivessem acompanhando o envelhecimento da vinha” canta o Larous-
-se do Vinho. xii
+estivessem acompanhando o envelhecimento da vinha” canta o Larousse do Vinho.[^footnote12]
+
+[^footnote12]: LAROUSSE DO VINHO, p. 70.
 
 Esta segunda e poética fermentação provocada por bactérias, a
 *maloláctica*, converte o ácido *málico* do vinho em ácido *láctico*.
 Daí o nome de fermentação secundária ou maloláctica (do latim
 *malus* que significa macieira e do latim *lacticus*, de leite). Uma
-dentada numa maçã verde pode dar uma boa idéia do que é o ácido
+dentada numa maçã verde pode dar uma boa ideia do que é o ácido
 málico, enquanto uma colherada de iogurte ajuda a perceber que a
 acidez deste (ácido láctico) é mais agradável do que a daquela.
 
@@ -662,7 +677,7 @@ No entanto, para os vinhos brancos, a dramática ação das bactérias
 pode ser inconveniente por reduzir sua acidez. Assim, a fermentação
 maloláctica passa de *guest star* a *persona non grata*, porque não
 interessa abrandar a acidez dos vinhos frutados de regiões mais
-quentes. O provável **The End** seria um vinho “chato” e enjoativo
+quentes. O provável *The End* seria um vinho “chato” e enjoativo
 como alguns melodramas hollywoodianos ou como a compota de fruta
 muito açucarada.
 
@@ -673,8 +688,7 @@ poder dos barris de madeira de gerar aromas no vinho.
 
 Inicialmente, a função dos barris de madeira era simplesmente
 substituir as ânforas de cerâmica para fins de transporte. As jarras
-de cerâmica eram pesadas, complicadas para transportar e quebra-
-vam-se com facilidade.
+de cerâmica eram pesadas, complicadas para transportar e quebravam-se com facilidade.
 
 A partir daí descobriu-se que mais do que *continente*, o barril é
 um superlativo *conteúdo*!
@@ -699,9 +713,8 @@ chá.
 
 *Eu só bebo champanhe quando estou feliz, e quando estou triste. Às
 vezes eu bebo quando estou sozinha. Quando tenho companhia,
-considero obrigatório. Apenas provo se não estou com fome, mas*
-
-*bebo quando estou. Se não, nem toco nele a menos que eu esteja com
+considero obrigatório. Apenas provo se não estou com fome, mas
+bebo quando estou. Se não, nem toco nele a menos que eu esteja com
 sede.*
 
 *Lilly Bollinger, proprietária da maison Bollinger*
@@ -729,7 +742,7 @@ espumante elaborado com Shiraz que não é nem branco, nem rosé, mas
 tinto como a uva que o produz (Sparkling Wine Shiraz Paringa).
 
 Por esse método, vinifica-se separadamente cada uva como se fosse para
-um vinho branco tranqüilo. Uma vez clarificados, filtrados e
+um vinho branco tranquilo. Uma vez clarificados, filtrados e
 estabilizados, os vinhos (de cada uma dessas cepas) são mesclados
 dentro do estilo da casa produtora. Trata-se da *assemblage.* O
 resultado dessa assemblage ou mistura de vinhos provenientes de
@@ -784,9 +797,11 @@ giradas um oitavo de volta e recolocadas numa inclinação mais próxima
 da posição vertical. Assim, “através de movimentos giratórios, os
 depósitos de levedura sedimentados na barriga da garrafa” deslizam
 em direção ao bico, explica o enólogo Mario Geisse, um dos
-introdutores do método *champenoise* no Brasil. xiii Nas grandes
+introdutores do método *champenoise* no Brasil.[^footnote13] Nas grandes
 casas, apenas as champanhes e espumantes de maior qualidade passam
 pela remuage manual. As demais são submetidas a uma remuage mecânica.
+
+[^footnote13]: REVISTA ADEGA, nº 4, 2005, p. 23.
 
 Finalmente os sedimentos alcançam e se acumulam junto à boca da
 garrafa: é chegado o
@@ -798,8 +813,7 @@ inútil é expelido. É verdade que algum líquido se perde, mas também
 não é verdade que “tudo vale a pena se a alma não é pequena”?
 
 O líquido perdido é reposto com vinho da mesma safra e com o “licor de
-expedição”, uma mistura de champanhe e açúcar. É nesta fase de dosa-
-gem que se determina se o champanhe será natural (sem adição de açúcar
+expedição”, uma mistura de champanhe e açúcar. É nesta fase de dosagem que se determina se o champanhe será natural (sem adição de açúcar
 ou licor de expedição), *brut*, meio-seco ou seco. Ao final, fecham-se
 as garrafas com a rolha tradicional presa por uma gaiola metálica,
 outro grande achado que deu tanto trabalho para ser inventado quanto
@@ -867,15 +881,18 @@ da boa vontade de um fungo, o *Botrytis cinerea*.
 
 O processo de produção exige que as uvas sejam colhidas quando
 apresentam um elevado teor de açúcar. Para tanto, pode-se:
-aguardar e retardar a colheita (daí o nome colheita tardia), na
+
+>aguardar e retardar a colheita (daí o nome colheita tardia), na
 esperança de que as uvas ganhem em açúcar (e que nem as chuvas, nem as
 pragas e nem os animais as comam);
 colher as uvas e colocá-las em tapetes para secar ao sol, de modo a
 aumentar a concentração de açúcar com a evaporação do líquido (uva
 passa);
-deixar na parreira congelando (eiswein), para que a água se separe do
+
+>deixar na parreira congelando (*eiswein*), para que a água se separe do
 suco açucarado;
-aguardar que sejam atacadas pelo fungo *Botrytis cinerea*. Este fungo
+
+>aguardar que sejam atacadas pelo fungo *Botrytis cinerea*. Este fungo
 “bebe” parte da água das uvas e ajuda na concentração do açúcar. Uma
 uva atacada pelo *Botrytis cinerea* não tem uma aparência atraente,
 muito pelo contrário, remete à podridão. Daí o apelido de “podridão
@@ -896,7 +913,7 @@ receita: além de atenção (para apreciar aromas e sensações), é preciso
 
 Sem dúvida alguma, a forma mais divertida, interessante e saudável de
 se ganhar *litragem* é a via da degustação: bebe-se um pouco de muitos
-em vez de muito de poucos. Para tanto, basta freqüentar os chamados
+em vez de muito de poucos. Para tanto, basta frequentar os chamados
 bares de vinho, *wine bar* ou *bar-avin,* que significa provar
 pequenas doses de vinhos de castas e países diferentes. Que tal pedir
 uma
@@ -919,7 +936,7 @@ conversar.
 Os atenienses davam a essas festas ou banquetes o nome de
 *symposion*. Em sua origem, tratava-se de reunir os amigos para um
 banquete em casa, beber moderadamente e conversar sobre diversos
-tópicos com a fala aberta a todos. Provavelmente o symposion clássico
+tópicos com a fala aberta a todos. Provavelmente o *symposion* clássico
 deveria estar mais para a conversa de botequim regada a vinho.
 
 O simpósio dos dias de hoje é uma conferência de doutos em que o
@@ -941,10 +958,9 @@ bebia vinho batizado sim, mas ao lado de muitos amigos.
 
 Degustar é isso, descobrir gole a gole quais são os vinhos que nos
 caem bem, suscitam sensações agradáveis, confortam o nosso (por vezes)
-atribulado espírito e, ainda, nos levam a travar novas e inte-
-ressantes amizades.
+atribulado espírito e, ainda, nos levam a travar novas e interessantes amizades.
 
-No Brasil contamos com a Associação Brasileira de Sommeliers - ABS
+No Brasil contamos com a Associação Brasileira de Sommeliers – ABS
 (www.abssp.com.br) e a Sociedade Brasileira dos Amigos do Vinho -
 SBAV (www.sbav-sp.com.br) que oferecem cursos e degustações.
 
@@ -993,62 +1009,62 @@ equilibrado, elegante. Aromas
 complexos **Cepas**: Chardonnay, Chenin, Marsanne, Riesling, Roussane,
 Sauvignon Blanc, Sémillon.
 
-1.  *Branco seco muito aromático*. Características: Boca rica e
-original. Aromas frutados exuberantes, freqüentemente
+4.  *Branco seco muito aromático*. Características: Boca rica e
+original. Aromas frutados exuberantes, frequentemente
 condimentados, às vezes noz fresca e de trigo. Final persistente e
 de caráter. **Cepas**: Gewürztraminer, Muscat, Palomino, Riesling,
 Tokay, Viognier.
 
-2.  *Branco meio-seco, aveludado, licoroso.* Características: Boca
+5.  *Branco meio-seco, aveludado, licoroso.* Características: Boca
 rica, textura gorda, macia, equilibrada com boa acidez, aromas
 frutados. Final aromático persistente. **Cepas**: Chenin, Riesling,
 Sémillon, Furmint, Tokay-Pinot Gris.
 
-3.  *Rosado vivo e frutado*. Características: Boca crocante, fresca,
+6.  *Rosado vivo e frutado*. Características: Boca crocante, fresca,
 levemente acidulada, aroma muito frutado. **Cepas**: Cabernet Franc,
 Carignan, Cinsault, Gamay, Grenache.
 
-4.  *Rosado generoso e encorpado.* Características: Boca macia, aromas
+7.  *Rosado generoso e encorpado.* Características: Boca macia, aromas
 frutados, bom equilíbrio entre acidez e leve estrutura tânica. Final
 refrescante. **Cepas**: Carignan, Grenache, Merlot, Mourvédre, Pinot
 Noir, Syrah.
 
-5.  *Tinto leve e frutado*. Características: na boca frutas e frescor,
+8.  *Tinto leve e frutado*. Características: na boca frutas e frescor,
 estrutura tânica leve com agradável acidez, aromas de frutas verme-
 lhas/flores. Final simples. **Cepas**: Cabernet Franc, Gamay, Pinot
 Noir.
 
-6.  *Tinto carnoso e frutado*. Características: Boca carnosa com sabor
+9.  *Tinto carnoso e frutado*. Características: Boca carnosa com sabor
 frutado, álcool redondo e taninos pouco complexos. Aroma de frutas
-vermelhas e freqüentemente de especiarias. Final médio persistente.
+vermelhas e frequentemente de especiarias. Final médio persistente.
 **Cepas**: Cabernet Franc, Cabernet Sauvignon, Carignan, Grenache,
 Merlot, Pinot Noir, Syrah.
 
-7.  *Vinho tinto complexo, potente, generoso*: Boca carnosa potente e
+10.  *Vinho tinto complexo, potente, generoso*: Boca carnosa potente e
 suave, rica em álcool e taninos, que exige algum tempo para abrir;
-buquê rico e complexo de frutas, especiarias e freqüentemente com
+buquê rico e complexo de frutas, especiarias e frequentemente com
 notas amadeiradas; final persistente e complexo. **Cepas**: Cabernet
 Franc, Carignan, Grenache, Malbec, Merlot, Mourvédre, Syrah, Tannat,
 Tempranilho, Sangiovese.
 
-8.  *Vinho tinto complexo, tânico e elegante*: Boca de textura densa e
+11.  *Vinho tinto complexo, tânico e elegante*: Boca de textura densa e
 compacta, estrutura tânica elegante, que exige anos para arredondar,
 aromas complexos frutados, condimentados, não
 raro amadeirados. Final longo e raçudo. **Cepas**: Cabernet Sauvignon,
 Mourvédre, Syrah, Nebbiolo.
 
-1.  *Vinho tinto complexo, elegante e raçudo*: Boca sedosa, elegante,
+12.  *Vinho tinto complexo, elegante e raçudo*: Boca sedosa, elegante,
 taninos finos e firmes quando jovens, aromas expressivos de frutas
 vermelhas. Final persistente e raçudo. **Cepa**: Pinot Noir da
 Borgonha.
 
-2.  *Vinho Espumante*: Boca fresca, viva e leve graças às suas bolhas
+13.  *Vinho Espumante*: Boca fresca, viva e leve graças às suas bolhas
 (dióxido de carbono), aromas delicados de frutas e flores. Final
 mais ou menos persistente. **Cepas**: Chardonnay, Pinot Noir e Pinot
 Meunier; Malbec, Cabernet Franc; Baga Sauvignon, Sémillon; Macabeo,
 Xarel.lo, Parellada em cavas.
 
-3.  *Vinho fortificado e vinho de sobremesa*. Boca rica em açúcares
+14.  *Vinho fortificado e vinho de sobremesa*. Boca rica em açúcares
 residuais e álcool, consistência untuosa, aromas frutados
 exuberantes. Final saboroso. **Cepas**: Cabernet Franc, Cabernet
 Sauvignon, Grenache, Merlot, Muscat, Touriga Nacional, Sémillon,
@@ -1057,7 +1073,7 @@ Zibbido e Pedro Ximénez.
 ## Sopa de letrinhas
 
 *Fazemos um produto raro, para não dizer único, com nossos três ases
-que eu creio hão de prevalecer por muito tempo: terroir, know-how e
+que eu creio hão de prevalecer por muito tempo: *terroir*, know-how e
 prestígio.*
 
 *Baronesa Philippine de Rothschild do Château Mouton-Rothschild*
@@ -1106,9 +1122,8 @@ das uvas Cabernet Sauvignon, Merlot e Cabernet Franc, que recebe o
 nome de “corte bordalês”. Apenas 30% de seus vinhos são brancos de
 uvas Semillon e Sauvignon Blanc. O
 sistema de classificação de vinhos de 1855 é complexo e teve por base
-o preço. Os melhores vinhos e, portanto, os mais caros daquela épo-
-ca, foram classificados como Premier Cru, Deuxieme Cru e assim por
-diante até o Cinqüième Cru (primeiro ao quinto terroir ou vinho). Os
+o preço. Os melhores vinhos e, portanto, os mais caros daquela época, foram classificados como Premier Cru, Deuxieme Cru e assim por
+diante até o Cinqüième Cru (primeiro ao quinto *terroir* ou vinho). Os
 Premier Crus situam-se nas regiões do Médoc e Graves e são produzidos
 pelos Château Lafite-Rothschild, Château Latour, Château Margaux,
 Château Haut-Brion e, incluído na lista em 1973, o Château
@@ -1129,11 +1144,11 @@ região não permitem tintos.
 
 **Loire**: Vinhos brancos em sua maioria.
 
-Na Itália os vinhos tem a seguinte classificação:
+**Na Itália os vinhos tem a seguinte classificação:**
 
 *Vino di Tavola*
 
-*Indicazione Geográfica Típica - IGT Denominazione de Origine
+*Indicazione Geográfica Típica – IGT Denominazione de Origine
 Controllata – DOC Denominazione de Origine Controllata i Garantita –
 DOCG*: é a máxima classificação para os vinhos italianos. E são apenas
 13 deles nela incluídos.
@@ -1148,7 +1163,7 @@ vinhos. No entanto, devido à sua qualidade, foram bem recebidos pela
 crítica e pelo público que aceita pagar os altos preços desses vinhos.
 
 A região de Bento Gonçalves, na Serra Gaúcha, recebeu um selo de
-reconhecimento da União Européia em 2007: a Indicação Geográfica Vale
+reconhecimento da União Europeia em 2007: a Indicação Geográfica Vale
 dos Vinhedos.
 
 # O prazer de beber vinho
@@ -1223,8 +1238,11 @@ Ora, apreciar vinhos é atitude não menos sofisticada do que a de
 saborear um prato, doce ou fruto de que se goste. E o processo passa
 pelas mesmas etapas:
 
-Apreciação ou Exame visual Apreciação ou Exame olfativo Apreciação ou
-Exame gustativo
+>Apreciação ou Exame visual 
+
+>Apreciação ou Exame olfativo 
+
+>Apreciação ou Exame gustativo
 
 Em se tratando de vinho, há hoje verdadeiros tratados para sua
 apreciação, com formulários próprios para se dar notas. Ao contrário
@@ -1254,8 +1272,7 @@ claridade, que vai se perdendo e escurecendo com a passagem dos anos.
 Velho, terá coloração âmbar, como os tintos envelhecidos.
 
 **Claridade**: o vinho está límpido e tem brilho ou está velado ou
-turvo? Um vinho opaco já anuncia aos olhos o que a boca há de consta-
-tar: o vinho está morto, estragado ou senil. O vinho novo é como os
+turvo? Um vinho opaco já anuncia aos olhos o que a boca há de constatar: o vinho está morto, estragado ou senil. O vinho novo é como os
 jovens: tem uma aparência límpida e cheia de brilho.
 
 **Cor**: Os vinhos jovens costumam ser extremados em sua cor. Os
@@ -1267,7 +1284,7 @@ clara ou atijolada a cor da borda do disco (a parte superior do vinho
 no copo), tanto mais velho o vinho.
 
 Os brancos novos partem do amarelo-pálido, seguem para o amarelo-palha
-e ao amareloverdeal ou com reflexos esverdeados. Com o tempo, eles
+e ao amarelo-verdeal ou com reflexos esverdeados. Com o tempo, eles
 passam a amarelo-ouro. Envelhecidos, chegam ao amarelo-âmbar, o
 ponto de encontro da senectude dos vinhos.
 
@@ -1285,7 +1302,9 @@ Watson”, diria um Sherlock Holmes que amasse os vinhos.
 “O olfato é o ‘sentido perdido’, relegado a um ostracismo de séculos,
 em desuso pelo homem moderno” recorda o jornalista Marcelo Copello,
 enquanto anuncia a recuperação da importância deste sentido nos dias
-de hoje graças à influência do vinho. xiv
+de hoje graças à influência do vinho.[^footnote14]
+
+[^footnote14]:REVISTA ADEGA, nº 20, ano 3.
 
 O vinho oferece ao olfato aromas diversos. Quem já não sentiu ou leu
 na ficha técnica do vinho que entre seus aromas estão o de framboesa,
@@ -1345,7 +1364,7 @@ Novo Mundo elaborados com a Sauvignon Blanc que recordam aromas de
 abacaxi, aspargos, melão, pêssego; vinhos de Chardonnay com madeira
 lembram manteiga e os sem madeira remetem a abacaxi. Os champanhes
 desprendem aromas de amêndoa torrada, fermento e os vinhos tintos
-podem recordar ameixas e geléias de frutas vermelhas em compota.
+podem recordar ameixas e geleias de frutas vermelhas em compota.
 
 Enfim, a percepção de aromas não é fundamental, mas os amantes do
 vinho apreciam analisá-lo em toda as suas qualidades, do mesmo modo
@@ -1369,8 +1388,7 @@ aveludado, macio, suave.
 
 Portanto, é a impressão tátil do conjunto da bebida que define a
 qualidade do vinho. Elegância, corpo, leveza, vivacidade, frescor,
-potência, robus-
-tez são todas captadas pelo tato. O peso, o corpo, a elegância.
+potência, robustez são todas captadas pelo tato. O peso, o corpo, a elegância.
 
 Muitas vezes o “nariz” é excelente, mas quando o vinho alcança a
 boca, a promessa não se cumpre, deixando um sabor de frustração no
@@ -1380,8 +1398,10 @@ Como estabelece o respeitado crítico Mário Telles Jr., da ABS, “*a
 textura diz respeito a todas as sensações térmico-táteis provocadas
 pelo vinho e pela comida em nossa boca, ou como simplificaríamos mais
 objetivos, tudo que não seja relacionado às sensações gustativas de
-doce, salgado, ácido ou amargo*”xv. E destaca os fatores que alteram a
+doce, salgado, ácido ou amargo*”.[^footnote15] E destaca os fatores que alteram a
 textura do vinho: taninos, álcool, presença de madeira e corpo.
+
+[^footnote15]: REVISTA WINE STYLE, dezembro, 2007, p. 58.
 
 **Avaliação táctil**: Se você já se horrorizou com as bochechadas de
 algum enochato num almoço entre amigos, esteja certo de duas coisas:
@@ -1390,7 +1410,9 @@ boca; segundo, o momento é inadequado. Esse tipo de exame se faz em
 degustações.
 
 Quais são as sensações táteis na boca? **Corpo**: leve, encorpado,
-pesado etc. **Adstringência**: taninos muito presentes dão
+pesado etc. 
+
+**Adstringência**: taninos muito presentes dão
 a sensação de secura, “amarram a boca”.
 
 Taninos redondos são um prazer a mais.
@@ -1398,8 +1420,7 @@ Taninos redondos são um prazer a mais.
 **Temperatura**: quando incorreta pode prejudicar aromas e sabores.
 
 **Efervescência**: a sensação de agulha provocada pelas bolhas do
-gás carbônico em vinhos espumantes ou tranqüilos (não tão sossega-
-dos).
+gás carbônico em vinhos espumantes ou tranquilos (não tão sossegados).
 
 **Textura**: a impressão tátil do conjunto, como macio, aveludado,
 rugoso.
@@ -1455,8 +1476,7 @@ como as rolhas sintéticas para vinhos simples. No entanto, Arthur
 Azevedo, presidente da Associação Brasileira de Sommeliers, adverte:
 “este tipo de rolha (sintética) vai sumir”, pois não é tão eficaz na
 vedação. A polêmica deve persistir por mais alguns anos até que as
-pesquisas em andamen-
-to verifiquem se a *screwcap* é indicada para vinhos de longa guarda
+pesquisas em andamento verifiquem se a *screwcap* é indicada para vinhos de longa guarda
 como um Barolo, por exemplo.
 
 ## O que depende do consumidor
@@ -1488,18 +1508,17 @@ seus aromas.
 
 O mercado oferece hoje em dia taças adequadas para cada tipo de vinho.
 No século 19, bebia-se espumante em taças largas e rasas. Hoje,
-prefere-se as chamadas *flûtes*, em forma de flauta. A forma estreita
+prefere-se as chamadas *flütes*, em forma de flauta. A forma estreita
 e longa mantém as borbulhas do espumante por mais tempo além de
 revelarem o belo e contínuo torvelinho de seu *perlage*. Entretanto,
-flütes lavados com detergente matam as borbulhas. Lave os flütes com
+*flütes* lavados com detergente matam as borbulhas. Lave os *flütes* com
 detergente de máquina de lavar e água quente para garantir o ímpeto e
 o volume de borbulhas, o grande encanto dos espumantes.
 
 Taças para vinhos tintos têm formas diferentes das dos vinhos brancos
 para realçar as características próprias. E para os tintos, há
 diferenças de forma entre as taças que servem um Porto, um Bordeaux,
-um Borgonha, assim como para os bran-
-cos, as taças para Chardonnay e para Sauternes diferem entre si.
+um Borgonha, assim como para os brancos, as taças para Chardonnay e para Sauternes diferem entre si.
 
 Portanto, tomar vinho tinto à temperatura ambiente é bom princípio,
 desde que seja a da adega onde ele foi concebido... Jamais à
@@ -1563,8 +1582,7 @@ medida que a temperatura sobe, os ésteres são liberados, voláteis que
 são, e o aroma se revela.
 
 Os espumantes muito gelados também perdem em qualidade e aromas. Se
-a temperatura for elevada, o tamanho das borbulhas aumenta, a libe-
-ração do gás carbônico se acelera e manda para o espaço a elegância e
+a temperatura for elevada, o tamanho das borbulhas aumenta, a liberação do gás carbônico se acelera e manda para o espaço a elegância e
 a fineza da bebida. A temperatura ideal, segundo o Larousse do
 Vinho, é:
 
@@ -1582,7 +1600,10 @@ compatibilizações.*
 O vinho é a bebida que “reúne as melhores possibilidades de realçar
 sabores e fazer de um bom prato uma refeição inesquecível. É ele que
 prepara o palato e limpa a boca durante a refeição para tornar mais
-harmônicas as sensações táteis e aromáticas.”xvi
+harmônicas as sensações táteis e aromáticas.”[^footnote16]
+
+[^footnote16]: BRAUNE, RENATA E FRANCO, SILVIA CINTRA – O
+que é Gastronomia? São Paulo, Brasiliense, 2007, p. 51.
 
 Pode-se perguntar por que se insiste tanto nas harmonizações de vinho
 e comida. De certo modo, é tão importante ou desimportante quanto
@@ -1603,7 +1624,10 @@ como o vinho têm sabores específicos, muito seus, e o que a
 enogastronomia pretende é que saboreados em conjunto – um gole de
 vinho em seguida a uma garfada – resultem num terceiro e feliz sabor
 de união equilibrada. É o casamento perfeito em que as partes se
-complementam e se harmonizam.”xvii
+complementam e se harmonizam.”[^footnote17]
+
+[^footnote17]: BRAUNE, RENATA E FRANCO, SILVIA CINTRA – O
+que é Gastronomia?, São Paulo, Brasiliense, p. 55.
 
 O que não faltam são regras de harmonização. Entretanto melhores do
 que regras e tabelas são os princípios e o bom senso.
@@ -1645,7 +1669,7 @@ costumam ser complexos, potentes e generosos, capazes de enfrentar uma
 massa com molho de tomate e a cozinha mediterrânea com suas ervas,
 alhos e especiarias. Entretanto, se os molhos não forem tão
 condimentados, ou as ervas e alhos não pesarem tanto, um vinho rosado,
-generoso, será perfeitamente capaz de acompanhálos. No caso de uma
+generoso, será perfeitamente capaz de acompanhá-los. No caso de uma
 carne de cordeiro, por que não um Malbec? E para uma carne vermelha,
 que tal um Shiraz? E um prato de caça há de emparelhar com um vinho de
 igual corpulência, como um Cabernet Sauvignon encorpado.
@@ -1659,8 +1683,7 @@ pessoal ou do que se oferece na carta de vinhos do restaurante.
 **As oposições**. Pode-se cruzar pratos de climas quentes com vinhos
 de zonas frias e vinhos brancos frutados com cozinha exótica e
 condimentada. Um prato da culinária indiana com um Gerwustraminer da
-Alsácia. Ou a moqueca supraci-
-tada (ou camarões condimentados) com um Riesling da Alemanha que não
+Alsácia. Ou a moqueca supracitada (ou camarões condimentados) com um Riesling da Alemanha que não
 seja seco.
 
 **Afinidades e oposições**. Vinhos doces vão muito bem com sobremesa,
@@ -1673,7 +1696,7 @@ agridoces, compotas, pratos leves com frutas. Aromas amanteigados ou
 que lembram mel sinalizam uma agradável combinação com molhos à base
 de creme e manteiga.
 
-Características de vinhos e pratos para harmonizações
+**Características de vinhos e pratos para harmonizações:**
 
 1.  Os **rosados** ou *rosés* combinam a acidez, o frescor e o corpo
 leve dos brancos com o caráter frutado dos tintos. Assim, um rosado
@@ -1705,7 +1728,7 @@ IMAGEM2
 
 IMAGEM3
 
-(in “O que é Gastronomia?”, pg.55)
+*(in “O que é Gastronomia?”, p. 55)*
 
 Como se pode ver, harmonização não é matemática, como também não o é
 a moda e outras artes que combinam princípios e preferências pessoais.
@@ -1731,10 +1754,14 @@ negada.
 Segundo o sociólogo, o princípio que rege as diferenças de gosto na
 alimentação, e aqui podemos incluir o vinho, é “a oposição entre
 gostos influenciados pelo luxo (ou liberdade) e gostos influenciados
-pela necessidade.”xviii
+pela necessidade.”[^footnote18]
+
+[^footnote18]: IN ART. A construção social do gosto, de Diane Seymour.
+Gastronomia, restaurantes e comportamento do consumidor, Barueri,
+Manole, 2005, p. 198.
 
 Os ricos podem se dar ao luxo e à liberdade de beber bons vinhos e
-comer de tudo, com tranqüilidade e sobriedade, pois sabem que o
+comer de tudo, com tranquilidade e sobriedade, pois sabem que o
 jantar está garantido. Os pobres sonham com fartura: comidas
 substanciosas, em abundância, que os sustentem até a próxima – e
 sabe-se lá quando – refeição.
@@ -1774,27 +1801,33 @@ cerveja e... de vinho. É a “classe D” chegando ao paraíso.
 *O gosto é pessoal. Eu gosto do que eu gosto — e você deveria fazer o
 mesmo.*
 
-*Hugh Johnsonxix*
+*Hugh Johnson*[^footnote19]
+
+[^footnote19]: JOHNSON, HUGH – Hugh Johnson’s Pocket Wine Book 2008, p. 7.
 
 Em nossa sociedade, o significado simbólico de bens e serviços só faz
 crescer e já se impõe a cultura do “estilo de vida”.
 
-Diane Seymour em artigo “A formação do gosto gastronômico”xx declara
+Diane Seymour em artigo “A formação do gosto gastronômico”[^footnote20] declara
 que persistem – apesar da globalização, dos efeitos da padronização,
 da
 massificação e das redes de *fast food* – indícios de que o alimento
 como significante de gosto e distinção conserva sua importância. E
-não haja dúvida de que isso também se aplica ao vinho: embora degus-
-tações às cegas provem que vinhos mais simples podem superar os de
+não haja dúvida de que isso também se aplica ao vinho: embora degustações às cegas provem que vinhos mais simples podem superar os de
 grande fama, aí estão os “bebedores de rótulos” que não nos deixam
 mentir. Rótulos que, evidentemente, poucos podem adquirir e que
 imprimem uma aura especial ao estilo de vida desses consumidores...
 
+[^footnote20]: IN ART. A construção social do gosto, de Diane Seymour.
+Gastronomia, restaurantes e comportamento do consumidor, Barueri,
+Manole, 2005, p. 198.
+
 Para Mike Featherstone, “em uma cultura de consumo, o indivíduo
 moderno adquire a consciência de que ele fala não só com suas
-roupas, mas com sua casa, mobília, decoração, carro e outras ativida-
-des que devem ser lidas e classificadas quanto à presença e ausência
-de gosto”.xxi
+roupas, mas com sua casa, mobília, decoração, carro e outras atividades que devem ser lidas e classificadas quanto à presença e ausência
+de gosto”.[^footnote21]
+
+[^footnote21]: FEATHERSTONE, MIKE – Consumer culture and postmodernism. 1991. London.
 
 Muito antes de Featherstone, desde o século 19, o gourmet francês
 Brillat-Savarin definia de forma simples e clara a relação entre
@@ -1819,12 +1852,13 @@ descobrindo gostos, sabores e texturas.
 ## No meio do caminho tinha uma nota, tinha uma nota no meio do caminho
 
 *Sou capaz de fazer um vinho de 100 pontos. Susana Balbo, enóloga
-argentinaxxii*
+argentina*[^footnote22]
+
+[^footnote22]: REVISTA ADEGA, ano 3, nº 18, 2007, p. 13.
 
 Tem uma pedra no meio do caminho dos produtores e ela se chama
 “gosto Rolland” (Michel Rolland, enólogo francês) que, por
-coincidência, é muito “do gosto” de Robert Parker, degustador nor-
-te-americano brilhante e “duplamente” confiável. Primeiro, porque suas
+coincidência, é muito “do gosto” de Robert Parker, degustador norte-americano brilhante e “duplamente” confiável. Primeiro, porque suas
 avaliações aparentemente o são. Segundo, porque o maior mercado
 consumidor de vinho também é norte-americano e aprecia esse tipo de
 avaliação.
@@ -1877,11 +1911,9 @@ Na verdade, no universo do vinho tem sido imposto algo, que em outras
 *fatwas* ou indicar com tanta arrogância o que é ou não é bom.
 
 Infelizmente, no mundo dos vinhos não se conta, senão raramente, com o
-fator tempo, componente básico que já deitou por terra inúmeros juí-
-zos críticos nas artes. Na literatura e na música, por exemplo, temos
+fator tempo, componente básico que já deitou por terra inúmeros juízos críticos nas artes. Na literatura e na música, por exemplo, temos
 dois casos de injusta avaliação crítica que o tempo corrigiu: a de
-Fernando Pessoa, o maior ou o segundo maior poeta da língua portugue-
-sa logo atrás de Camões, e o do músico francês Maurice Ravel, famoso
+Fernando Pessoa, o maior ou o segundo maior poeta da língua portuguesa logo atrás de Camões, e o do músico francês Maurice Ravel, famoso
 por seu Bolero.
 
 Quando Fernando Pessoa inscreveu seu poema Mensagem num concurso
@@ -1904,11 +1936,11 @@ século depois de sua composição...
 
 ## Viva a pluralidade!
 
-*Posso viver sem jóias e roupas lindas, posso até viver sem chá, mas
+*Posso viver sem joias e roupas lindas, posso até viver sem chá, mas
 se tivesse que viver sem voltar a beber uma taça de vinho outra vez,
 seria como perder uma parte da minha alma.*
 
-*Emma Thompson*, *atriz britânica.*
+*Emma Thompson, atriz britânica.*
 
 Junto com o desafio de atingir as notas máximas vem, como um trator, a
 questão da massificação.
@@ -1922,7 +1954,9 @@ O crítico britânico Hugh Johnson teme o poder sobre os consumidores de
 certo tipo de críticos a quem chama de absolutistas. “A palavra
 final e a influência destes poderosíssimos *über-críticos*, como
 Parker, representam um perigo para a diversidade do mundo do vinho”,
-alerta.xxiii
+alerta.[^footnote23]
+
+[^footnote23]: REVISTA VEJA, 25/7/07.
 
 Vinho não é refrigerante. É bebida com personalidade e vida própria:
 tem seu tempo de juventude e de amadurecimento. Seus aromas e
@@ -1937,7 +1971,7 @@ diferentes e, como fornecedor de vinhos, ofereço opções, não só o que
 
 Celso La Pastina da World Wine acredita que há que se “dar valor ao
 vinho que é feito sem maquiagem, que expressa o trabalho do artista (o
-enólogo) e do terroir”. Ousado, La Pastina trata de oferecer ao
+enólogo) e do *terroir*”. Ousado, La Pastina trata de oferecer ao
 mercado não somente vinhos de tradição, mas também procura inovar,
 por exemplo, com os vinhos naturais (sem adição de química na videira
 ou na adega). Para ele, “o vinho que é vinho tem que ser bebível,
@@ -1969,7 +2003,9 @@ Portanto, embora a enóloga Susana Balbo tenha provado aos críticos que
 é capaz de fazer um
 vinho nota 100, acredita que o cenário há de se alterar e que venham
 a cair “no gosto das pessoas vinhos produzidos com variedades de
-taninos mais suaves e aromas mais complexos.”xxiv.
+taninos mais suaves e aromas mais complexos.”[^footnote24]
+
+[^footnote24]: REVISTA ADEGA, ano 3, nº 18, 2007, p. 13.
 
 Na verdade, espera-se que o mercado e os enófilos rejeitem a ditadura
 do gosto, ouçam o que lhes diz o seu próprio palato e ganhem
@@ -1989,18 +2025,21 @@ desastrosa a tendência de produtores de “seguir a cartilha” de
 Robert Parker, “porque o paladar de Robert Parker não é igual ao de
 seis milhões de pessoas. Muitos produtores passaram a produzir vinhos
 pensando nas notas do crítico. Ao fazerem isso, abriram mão da
-identidade e da tradição,”declara em entrevista à revista Adega.xxv
+identidade e da tradição,”declara em entrevista à revista Adega.[^footnote25]
+
+[^footnote25]: REVISTA ADEGA, ano 3, nº 16, 2007, p. 12.
 
 Marcello Copello lamenta que a “globalização do gosto” ou “a tendência
 atual de produzir vinhos direcionados ao mercado, de gosto muito
-semelhante entre si”, não respeitem o terroir. Para ele, o pro-
-blema não são as avaliações (confiáveis) de Parker, mas a
+semelhante entre si”, não respeitem o *terroir*. Para ele, o problema não são as avaliações (confiáveis) de Parker, mas a
 “parkerização” dos vinhos, que seguem o “gosto Rolland” (Michel
 Rolland) e são elaborados para atender aos críticos.
 
 E que gosto, que estilo é esse? Ele responde: “vinhos encorpados,
 feito com uvas ultramaduras, frutados, com forte presença do gosto de
-carvalho e de teor alcoólico alto.”xxvi
+carvalho e de teor alcoólico alto.”[^footnote26]
+
+[^footnote26]: REVISTA ADEGA, ano 1, nº 2, 2005, p. 33.
 
 Há quem justifique a existência de “bebedores de notas” pela razão
 de que o consumidor comum, especialmente o norte-americano, não tem
@@ -2012,7 +2051,6 @@ No entanto, não é isso que ocorre no mercado das letras ou do
 cinema: o amante dos livros e dos filmes é mais independente e não se
 deixa impressionar pelo palato dos críticos literários ou de cinema. É
 fácil constatar: basta comparar a lista dos
-
 *best-sellers* com a dos “best-indicados” pela crítica, raramente
 coincidem...
 
@@ -2023,7 +2061,7 @@ outros.
 
 Cresce também o número de amantes do vinho que se recusam a beber
 notas ou rótulos. Curiosos, lançam-se na aventura de descobrir o que
-mais lhes agrada. Organizam-se em confrarias ou freqüentam associações
+mais lhes agrada. Organizam-se em confrarias ou frequentam associações
 como a Brasileira de Sommeliers-ABS ou a Sociedade Amigos do Vinho-
 SBAV: degustam, provam e tomam consciência das suas preferências e do
 que lhes dá real prazer.
@@ -2044,11 +2082,9 @@ Desde a Antiguidade até recentemente, colhia-se a uva assim que esta
 atingisse o teor de açúcar necessário para se produzir um vinho com
 determinado nível de álcool. Entretanto, o que ocorre hoje em dia é
 que as uvas alcançam o nível de açúcar desejado bem antes de os
-polifenóis atingirem a maturidade ideal. As razões disso são diver-
-sas, como avanços tecnológicos na cultura da vinha, uso de leveduras
+polifenóis atingirem a maturidade ideal. As razões disso são diversas, como avanços tecnológicos na cultura da vinha, uso de leveduras
 selecionadas que suportam altas concentrações de álcool, mudanças
-climáticas, fato-
-res econômicos, mudança de paradigmas de maturidade e preferência
+climáticas, fatores econômicos, mudança de paradigmas de maturidade e preferência
 dos críticos.
 
 Como já vimos, polifenóis são substâncias que se encontram na casca de
@@ -2062,8 +2098,7 @@ parcela influente da crítica que prefere vinhos potentes em detrimento
 da elegância e do equilíbrio.
 
 Vinhos com concentração alcoólica de 11° e 12° são os que permitem que
-as pessoas bebam vinho sem se embriagarem, dirijam dentro dos limi-
-tes estabelecidos por lei (0,6 g/l) e – deleite dos *gourmets* –
+as pessoas bebam vinho sem se embriagarem, dirijam dentro dos limites estabelecidos por lei (0,6 g/l) e – deleite dos *gourmets* –
 acompanhem a comida sem tirar-lhe o brilho.
 
 A recomendação do *Royal College of Psychiatrists and Physicians* do
@@ -2078,7 +2113,9 @@ Entretanto, vinhos de 15º são 20% mais potentes do que os de 12º:
 em uma hora, elevam o nível de álcool no sangue para uma concentração
 de 0,59g/l. Se o vinho tiver 14º, esse nível, com as mesmas três
 taças, se elevará para 0,73g/l de álcool, ultrapassando dessa forma o
-limite legal para dirigir”, relata Borges. xxvii
+limite legal para dirigir”, relata Borges.[^footnote27]
+
+[^footnote27]: REVISTA WINE STYLE, safra 2005, novembro dezembro, p. 24.
 
 ## Beba diariamente e viva longamente
 
@@ -2099,22 +2136,25 @@ naqueles, ao menos não nas mesmas proporções.
 
 “À luz de evidências científicas, o consumo de vinho parece ter uma
 função importante na prevenção ou, ao menos, na redução do risco de
-um grande número de problemas de saúde”, afirma Ellison.xxviii
+um grande número de problemas de saúde”, afirma Ellison.[^footnote28]
 Segundo ele, o consumo moderado de vinho pode ajudar na prevenção de
 doenças do coração, ataques cardíacos, diabetes, Alzheimer e outras
 formas de demência, obesidade, câncer.
+
+[^footnote28]: REVISTA WINE SPECTATOR, october, 15, 2004, p. 47.
 
 A universidade de Leicester vem desenvolvendo pílulas para
 tratamento de câncer com resveratrol, componente químico encontrado no
 vinho tinto.
 
 Para o também médico Gustavo Andrade de Paulo, em artigo “O vinho bom
-alegra o coração do homem”, o consumo de vinho - “nem muito e nem
-muito pouco” - pode ser “o princípio para se realçar os efeitos
-benéficos do vinho sobre a saúde.”xxix Segundo ele, que apresenta
-extensa bibliografia consultada, o vinho também pode ajudar nos pro-
-blemas de visão, por reduzir a degeneração macular, em doenças dos
+alegra o coração do homem”, o consumo de vinho – “nem muito e nem
+muito pouco” – pode ser “o princípio para se realçar os efeitos
+benéficos do vinho sobre a saúde.”[^footnote29] Segundo ele, que apresenta
+extensa bibliografia consultada, o vinho também pode ajudar nos problemas de visão, por reduzir a degeneração macular, em doenças dos
 aparelhos digestivo e urinário.
+
+[^footnote29]: REVISTA WINE STYLE, 2005, maio junho, p. 46.
 
 Andrade de Paulo recorda o paradoxo francês: embora os franceses
 fumem muito e comam
@@ -2137,8 +2177,7 @@ efetivamente tem. Na verdade, esta é uma pergunta rotineira que
 mulheres bem sucedidas costumam ouvir.
 
 Se no passado a presença feminina era rara, embora marcante com
-mulheres decididas como aViúva Clicquot e Madame Pommery, hoje é cres-
-cente e nas mais diversas posições e funções: sommeliers,
+mulheres decididas como aViúva Clicquot e Madame Pommery, hoje é crescente e nas mais diversas posições e funções: sommeliers,
 comerciantes e enólogas como Susana Balbo da Argentina, Margarida
 Seixas, Filipa Pato; e comentaristas da mídia impressa como Alexandra
 Corvo, em São Paulo.
@@ -2164,13 +2203,16 @@ facilidade”, declara.
 A história do vinho no Brasil apenas começa a ser escrita e é muito
 recente, embora as primeiras videiras tenham chegado à Terra de Santa
 Cruz em 1532 “pelas mãos de Brás Cubas, que acompanhava Martim Afonso
-de Souza quando este aportou em São Vicente”.xxx Esta e outras
+de Souza quando este aportou em São Vicente”.[^footnote30] Esta e outras
 tentativas de iniciar a viticultura em *terrae brasilis* não foram bem
 sucedidas.
 
+[^footnote30]: LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho,
+São Paulo, Larousse do Brasil, 2004. p. 300.
+
 Os imigrantes italianos do Vêneto estabeleceram-se na Serra Gaúcha
 em fins do século 19 e início do século 20 e trouxeram mudas de uvas
-européias, que não vingaram. Passaram então a produzir vinho da cepa
+europeias, que não vingaram. Passaram então a produzir vinho da cepa
 americana Isabel (não-vinífera). Estabeleceram-se na serra Gaúcha,
 no Rio Grande do Sul: Mônaco (1908), Salton (1910) e Dreher (1910). As
 cooperativas, como a Aurora (1931), surgiram na década de 30 do século
@@ -2217,7 +2259,7 @@ todos estão convertidos para espaldeiras, verticais, para absorver
 mais o sol”.
 
 A partir de 1970, desembarcam aqui multinacionais do vinho como a
-Chandon e outras, trazendo na bagagem capital e know-how.
+Chandon e outras, trazendo na bagagem capital e *know-how*.
 
 As principais regiões vinícolas no Brasil são a Serra Gaúcha, a Serra
 do Sudeste, ambas no Rio Grande do Sul, o Vale do Rio do Peixe em
@@ -2236,12 +2278,15 @@ Da mesma forma que a legislação francesa, a brasileira permite a
 chaptalização (adição de açúcar ao mosto). Infelizmente, como lamenta
 Manoel Beato, esse recurso que auxilia no equilíbrio do vinho é usado
 no Brasil para adicionar açúcar ao vinho pronto: “o resultado é um
-vinho sem qualidade.”xxxi
+vinho sem qualidade.”[^footnote31]
 
-Aparentemente, os espumantes são a verdadeira vocação do terroir
-brasileiro. Assim como as condições de terroir da região francesa de
+[^footnote31]: BEATO, MANOEL – Guia de Vinhos Larousse; org. Guta Chaves. 2ª ed.
+S.Paulo, Larousse do Brasil, 2007, p. 57.
+
+Aparentemente, os espumantes são a verdadeira vocação do *terroir*
+brasileiro. Assim como as condições de *terroir* da região francesa de
 Champagne são excelentes para a produção do champanhe e inadequadas
-para a de grandes vinhos tranqüilos, também nossa Serra Gaúcha, por
+para a de grandes vinhos tranquilos, também nossa Serra Gaúcha, por
 motivos semelhantes, faz bons espumantes, “muitas vezes melhores que
 muitos importados, incluindo vários europeus”, declara o respeitado
 *sommelier* Manoel Beato.
@@ -2287,15 +2332,13 @@ simbólica do divino (como símbolo do sangue do deus Dioniso do qual
 todos os seguidores do orfismo podiam comungar), com o advento do
 cristianismo passa a ter lugar de destaque nos rituais religiosos e,
 da dimensão simbólica de sangue do deus Dioniso, presente nos ritos
-órfi-
-cos (pagãos), cresce superlativamente para o de sangue de Cristo.
+órficos (pagãos), cresce superlativamente para o de sangue de Cristo.
 
 Na Idade Média foram as abadias e seus monges que melhor trataram o
 vinho, de resto como o fizeram também com os valiosos textos da
 literatura grega e latina, ao preservarem para a posteridade obras
 como a Matemática de Arquimedes, a Poética de Aristóteles, a Filosofia
-de Platão, a Arte de Amar de Ovídio e muitas outras que, provavel-
-mente, jamais chegariam a nós se dependessem da sensibilidade dos
+de Platão, a Arte de Amar de Ovídio e muitas outras que, provavelmente, jamais chegariam a nós se dependessem da sensibilidade dos
 bárbaros invasores.
 
 Da Antiguidade até o século 19, a prática da vitivinicultura não
@@ -2314,8 +2357,7 @@ Vaugirard em Paris a medida de um metro, colocado ali pela
 Revolução, para que os cidadãos se familiarizassem com a nova medida.
 
 O universo do vinho também foi beneficiado pelos ventos da ciência.
-Surgiram químicos como Louis Pasteur, que desvendou o mistério da fer-
-mentação, e Jean-Antoine Chaptal (1756-1832), que solucionou a falta
+Surgiram químicos como Louis Pasteur, que desvendou o mistério da fermentação, e Jean-Antoine Chaptal (1756-1832), que solucionou a falta
 de açúcar das uvas em tempos de safras magras e frias. Novo e
 significativo avanço somente voltou a ocorrer em meados do século 20
 com as cubas de aço inoxidável de temperatura controlada.
@@ -2331,8 +2373,7 @@ empenhados em pesquisa e apoio como a Embrapa Uva e Vinho (Empresa
 Brasileira de Pesquisa Agropecuária), que tem contribuído de forma
 fundamental para o desenvolvimento de nossa enocultura. Não são
 poucas também as organizações de amantes de vinhos, profissionais e
-amado-
-res, como a Associação Brasileira de Sommeliers (ABS) e a Sociedade
+amadores, como a Associação Brasileira de Sommeliers (ABS) e a Sociedade
 Brasileira de Amigos do Vinho (SBAV), além das revistas
 especializadas: Adega, Gula, Prazeres da Mesa, Vinho Magazine, Wine
 Style. E os grandes jornais mantêm coluna semanal com notícias do
@@ -2347,8 +2388,10 @@ unânimes em considerar que a existência da videira é anterior à do
 homem. Segundo o pesquisador de história antiga cultural Cláudio
 Umpierre Carlan, acredita-se que a “*Vitis vinifera* se especificou
 no período terciário, espalhando-se por todo o hemisfério norte –
-antigamente, pensava-se que a vinha era uma exclusividade oriental”.
-xxxii
+antigamente, pensava-se que a vinha era uma exclusividade oriental”.[^footnote32]
+
+[^footnote32]: CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
+nº 17, p. 8.
 
 Nos primórdios dos tempos, a humanidade vagava nômade: os homens
 ocupados em caçar e as mulheres em coletar frutos e raízes.
@@ -2364,7 +2407,7 @@ plausível entre tantas outras carentes de averiguação.
 
 ## O vinho na Antiguidade
 
-*Os povos do Mediterrâneo começaram a sair da bárbarie quando
+*Os povos do Mediterrâneo começaram a sair da barbárie quando
 aprenderam a cultivar a oliveira e a vinha.*
 
 *Tucídides (460-398 a.C.)*
@@ -2376,7 +2419,6 @@ Robinson e Hugh Johnson em seu “The World Atlas of Wine”.
 Segundo Hugh Johnson, em A História do Vinho, os arqueólogos
 encontraram acúmulos de caroços de uva que indicam a fabricação de
 vinho num passado muito remoto. Escavações na Turquia
-
 (em Çatal Hüyük, talvez a primeira cidade do mundo), em Damasco
 (Síria), em Biblos (Líbano) e na Jordânia revelaram caroços do
 Neolítico B, período da Idade da Pedra que remonta a 8.000 a.C. e, com
@@ -2389,7 +2431,10 @@ transição de videira silvestre para a cultivada que remontam a 5.000
 a.C., isto é, os mais antigos vestígios da viticultura remontam ao
 final da Idade da Pedra! Daí que se possa afirmar que já data dessa
 época a capacidade de selecionar e cultivar videiras para aprimorar a
-qualidade e aumentar a quantidade dos frutos. xxxiii
+qualidade e aumentar a quantidade dos frutos.[^footnote33]
+
+[^footnote33]: JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
+London, Mitchell Beazley, 2005, 13-14.
 
 Por volta do ano 3000 a.C., a uva já era cultivada no Egito e na
 Suméria, onde se tornou a bebida dos ricos, ganhou espaço nos
@@ -2401,12 +2446,11 @@ principais dados da colheita, como ano, procedência e nome do
 vinicultor.
 
 Uma visita a Luxor e às tumbas de altos funcionários encarregados de
-supervisionar a vinicultura revela por suas ilustrações todo o pro-
-cesso da vitivinicultura do Antigo Egito: a vindima, onde as
+supervisionar a vinicultura revela por suas ilustrações todo o processo da vitivinicultura do Antigo Egito: a vindima, onde as
 videiras estão plantadas numa espécie de cocho e crescem numa latada
 (como ainda se vê na Serra Gaúcha), o registro da colheita, a pisa das
 uvas e a oferenda do suco aos deuses, a colocação em ‘jarras
-cananéias’ e o transporte do vinho pelo Nilo.
+cananeias’ e o transporte do vinho pelo Nilo.
 
 Por aquela época, os antigos egípcios já haviam descoberto uma forma
 mais segura de fazer a pisa. Enquanto em algumas vinícolas de Portugal
@@ -2442,8 +2486,7 @@ a.C. a ânfora mais antiga que se encontrou com tampa de cortiça.
 
 Os romanos – com sua disciplina bélica – não se interessaram pela
 viticultura senão a partir do período republicano (508 a.C.). Graças
-às conquis-
-tas bélicas, a Pax Romana (um eufemismo para a ocupação), estabeleceu
+às conquistas bélicas, a Pax Romana (um eufemismo para a ocupação), estabeleceu
 uma fantástica rede de estradas, vital para a expansão do comércio em
 geral e do vinho em particular.
 
@@ -2473,7 +2516,10 @@ Os antigos já sabiam que muitos vinhos tornavam-se melhores com o
 tempo, como registrou Plínio, o Velho (23-79 d.C.), ao declarar
 “Quanta prata dorme nas bodegas”, referindo-se aos vinhos guardados
 nas adegas ou “apothecas” e a heranças que contabilizavam mais de 10
-mil ânforas de vinhoxxxiv
+mil ânforas de vinho.[^footnote34]
+
+[^footnote34]: CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
+nº 17, p. 14.
 
 No Império Romano, o vinho tornou-se uma bebida de uso diário,
 acessível a pobres e escravos e complementava a dieta da plebe romana
@@ -2504,7 +2550,7 @@ bebida.
 
 *O sacramento da Eucaristia só pode celebrar-se com vinho de videiras
 pois essa é a vontade de Cristo Jesus, que escolheu o vinho quando
-ordenou tal sacramento \[... \] e também porque o vinho de uva
+ordenou tal sacramento [...] e também porque o vinho de uva
 constitui de certo modo uma imagem do efeito do sacramento. Refiro-me
 à alegria espiritual, pois está escrito que o vinho alegra o coração
 do homem.*
@@ -2513,18 +2559,21 @@ do homem.*
 
 Certamente deve haver boas razões pelas quais os homens conferem um
 caráter sagrado às
-coisas que mais importam. Ou os deuses - sabedores de sua
-importância - tratam de inspirar-lhes o cuidado e o respeito por
+coisas que mais importam. Ou os deuses – sabedores de sua
+importância – tratam de inspirar-lhes o cuidado e o respeito por
 aquilo que lhes é agradável. O vinho deve ter sido uma delas, pois se
 encontram referências no Gênesis, na mitologia babilônica e na grega.
 E não menores desdobramentos nos cultos órficos e cristãos.
 
 No Gênesis, Noé é apresentado como o primeiro viticultor (e também o
-primeiro a sofrer os efeitos do abuso do álcool); na epopéia
+primeiro a sofrer os efeitos do abuso do álcool); na epopeia
 babilônica de narrativa semelhante e redação anterior (1800 a.C.), ao
 descer de sua arca com seus animais uma vez findo o dilúvio, entra nos
 domínios do sol e “*ali encontra um vinhedo encantado cujo vinho (se
-pudesse bebê-lo) lhe daria a imortalidade que ele procurava*”.xxxv
+pudesse bebê-lo) lhe daria a imortalidade que ele procurava*”.[^footnote35]
+
+[^footnote35]: JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
+London, Mitchell Beazley, 2005, 17.
 
 No Antigo Egito, o vinho restringia-se a reis e nobres; e tinha seu
 uso ritual como oferenda aos deuses e aos mortos.
@@ -2537,7 +2586,7 @@ etílica atenção.
 Em Roma, onde atendia pelo nome de Baco, seu maior devoto teria sido
 Orfeu (aquele que desceu aos Infernos para trazer a bem amada
 Eurídice) e daí o nome de *orfismo* à seita dos devotos de Baco. O
-*orfismo* antecipou-se ao cristianismo e já apresentava a idéia da
+*orfismo* antecipou-se ao cristianismo e já apresentava a ideia da
 salvação espiritual e um conceito corrente na Antiguidade: o de se
 alimentar espiritualmente com o corpo do deus, comendo-o. No caso de
 Baco, o vinho era seu sangue. No início, Dioniso apenas libertava o
@@ -2559,7 +2608,7 @@ impossibilidade de combater tais festas, tratou-se de buscar o caminho
 da legalização, como também se fez no Brasil com o carnaval. E no
 século 6 a.C., com o objetivo de manter algum controle, as autoridades
 atenienses construíram o primeiro teatro do mundo para ali confinarem
-a festa. Como a idéia era boa, dois milênios e poucos séculos depois,
+a festa. Como a ideia era boa, dois milênios e poucos séculos depois,
 as autoridades cariocas e paulistas seguiram o mesmo caminho: erigiram
 seus sambódromos e definiram as ruas e os lugares onde a festa pode
 acontecer.
@@ -2568,8 +2617,11 @@ acontecer.
 
 No final da República, Roma era “uma metrópole de 1 milhão de
 habitantes, com consumo estimado entre 100 milhões e 200 milhões de
-hectolitros de vinho por ano”.xxxvi Cada qual bebia o vinho que estava
+hectolitros de vinho por ano”.[^footnote36] Cada qual bebia o vinho que estava
 a seu alcance.
+
+[^footnote36]: CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
+nº 17, p. 15.
 
 Desde essa época já predominava a crença de que o tempo é quem torna
 bons os vinhos. Assim, estes eram conservados em vasilhas de barro ou
@@ -2618,8 +2670,7 @@ e 52 a.C.
 
 Os gauleses bebiam desde a Alta Antiguidade, mas passaram a produzir a
 bebida somente a partir da implantação da primeira colônia romana na
-França, a chamada Gália Transalpina. Ali se estabe-
-leceram veteranos do exército romano que antes de saberem fazer a
+França, a chamada Gália Transalpina. Ali se estabeleceram veteranos do exército romano que antes de saberem fazer a
 guerra, já sabiam cultivar a vinha.
 
 Os primeiros vinhedos foram plantados nas atuais regiões de Corbières,
@@ -2627,7 +2678,10 @@ Minervois e Côteaux de Languedoc. Descobertas arqueológicas atestam
 que em 60 d. C. os vinhos da Gália dominavam de 80% a 90% do mercado
 britânico (a Britânia foi conquistada em 43 d.C.). Ali, o vinho era
 privilégio das classes alta e média, pois o bretão pobre continuou a
-tomar sua cerveja.xxxvii
+tomar sua cerveja.[^footnote37]
+
+[^footnote37]: FUNARI, PEDRO PAULO – revista História Viva, ed. Temática, nº
+17, p.21.
 
 Deve-se aos hábeis celtas a invenção do barril, que surgiu exatamente
 como o conhecemos hoje. Inicialmente, era usado para guardar a
@@ -2677,15 +2731,13 @@ do século 11, eram proprietários de vinhedos entre Dijon e Beaune, nos
 domínios de Mersault, Nuit-Saint-Georges, Vosne-Romanée e Clos-Vou-
 geot. A adega de Vougeot havia sido adquirida antes de 1125 e em 1212
 os monges ali instalaram um laboratório no qual se dedicaram à busca
-da perfeição: o **Clos de Vougeot**. Por fim, na década de 1330, cer-
-caram-no com o grande muro de pedra, posto em *clos*, que lá se
+da perfeição: o **Clos de Vougeot**. Por fim, na década de 1330, cercaram-no com o grande muro de pedra, posto em *clos*, que lá se
 encontra até hoje.
 
 Os monges cistercienses, anota Hugh Johnson, antes de criarem um novo
 vinhedo ou recuperarem um velho, tratavam de estudar atentamente as
 melhores plantas, faziam experiências com podas, selecionavam estacas
-e enxertos. Depois, esmeravam-se no processo de fabricação e se empe-
-nhavam em degustar. Graças a esse empenho todo, os cistercienses
+e enxertos. Depois, esmeravam-se no processo de fabricação e se empenhavam em degustar. Graças a esse empenho todo, os cistercienses
 entraram para a história da enologia pela criação de um conceito que
 nos é caro até os dias de hoje: o conceito de ***cru***, um setor
 homogêneo do vinhedo que ano após ano produz vinhos similares em
@@ -2698,12 +2750,13 @@ dízimo), e estudaram os recursos da Côte, identificando as áreas que
 produziam um vinho mais aromático ou robusto etc.
 
 Deve-se a esse trabalho de planejamento e pesquisa o processo pelo
-qual o nome de um ***climat***
-
-- ou seja, de um vinhedo com nome específico - designa o estilo e o
+qual o nome de um ***climat*** – ou seja, de um vinhedo com nome específico – designa o estilo e o
 valor de um vinho. Foi assim que a Côte d’Or se dividiu e subdividiu
 em centenas de climats que fizeram a fama de vinhos Montrachet e
-Romanée.xxxviii
+Romanée.[^footnote38]
+
+[^footnote38]: JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
+London, Mitchell Beazley, 2005, 72.
 
 Também os bispos incentivaram a plantação das vinhas, não somente
 porque apreciavam a bebida, como também pelo dízimo que dele
@@ -2741,8 +2794,7 @@ enterrava estacas, pequenos sarmentos que retirara das videiras do
 ano anterior, tomando o cuidado de mantê-los ligados a uma “base” da
 planta mais velha. Era um método barato. O outro consistia em plantar
 os sarmentos num viveiro e, uma vez criadas as raízes,
-transplantá-los. Uma terceira possibilidade era a mergulhia, ou *mar-
-cottage*: enterrava-se um ramo parcialmente e quando este criasse
+transplantá-los. Uma terceira possibilidade era a mergulhia, ou *marcottage*: enterrava-se um ramo parcialmente e quando este criasse
 suas próprias raízes era separado da videira-mãe e replantado. O novo
 vinhedo resultante da *marcottage* podia produzir frutos em dois ou
 três anos.
@@ -2752,19 +2804,22 @@ três anos.
 Na Idade Média, como hoje, a seleção das castas era fundamental. Na
 dúvida, o viticultor medieval de recursos limitados misturava castas
 diferentes para o caso de uma delas não vingar. Em seu Théâtre
-d’Agriculture, de 1600, o agrônomo francês Olivier de Serres recomenda
+d'Agriculture, de 1600, o agrônomo francês Olivier de Serres recomenda
 plantar cinco ou seis variedades.
 
-De maior importância econômica - e causa de constantes disputas entre
-proprietário e rendeiro - eram o vigor e a produtividade das várias
+De maior importância econômica – e causa de constantes disputas entre
+proprietário e rendeiro – eram o vigor e a produtividade das várias
 castas. Goethe, o escritor (e viajante) alemão do século 18, resumiu a
 questão de maneira lapidar em frase já mencionada anteriormente: “Os
 ricos querem bons vinhos, os pobres querem muito vinho”. Já no séc.
 13, havia na Renânia uma clara distinção entre “vinho huno”(o vinho de
 garrafão) e “vinho franco”(o vinho fino), em que o segundo custava o
 dobro do primeiro. Depois de conflitos que se estenderam por muitas
-gerações - e com algumas recaídas ainda hoje - o vinho “franco” acabou
-por prevalecer nos melhores vinhedos, explica Hugh Johnson.xxxix
+gerações – e com algumas recaídas ainda hoje – o vinho “franco” acabou
+por prevalecer nos melhores vinhedos, explica Hugh Johnson.[^footnote39]
+
+[^footnote39]: JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
+London, Mitchell Beazley, 2005, 65.
 
 As castas dos vinhedos mistos podiam ser de uvas tintas ou brancas.
 Ainda que na Alta Idade Média o vinho branco gozasse de maior
@@ -2789,10 +2844,10 @@ Com a Peste Negra em 1348 e novamente em 1360, acabou-se a
 mão-de-obra, sobretudo a dos laboriosos pesquisadores cistercienses.
 Do limão, o conde fez a melhor limonada: concentrou-se na qualidade. E
 por virtudes de uma estratégia bem sucedida de *marketing* de Filipe
-de Valois - ofereceu na conferência de Bruges entre a Inglaterra e o
+de Valois – ofereceu na conferência de Bruges entre a Inglaterra e o
 papa quantidades ilimitadas dos melhores vinhos brancos da França e
 apenas uma pequena amostra do tinto
-de seu excelente Beaune - este vinho tornou-se o cobiçado objeto de
+de seu excelente Beaune – este vinho tornou-se o cobiçado objeto de
 desejo do período.
 
 Até então as cepas não tinham a importância que vieram a ter depois.
@@ -2805,8 +2860,7 @@ Atribui-se ao próprio duque a seleção de uma variedade superior de
 Noiren, embora considerese mais plausível que esta seleção tenha
 sido obra dos cistercienses. Certamente, já naquela época, os
 subordinados trabalhavam e a direção levava os louros... O que importa
-é que o duque tinha a sabedoria de escolher bem sua equipe e indubita-
-velmente foi ele quem deu o primeiro e mais importante passo na
+é que o duque tinha a sabedoria de escolher bem sua equipe e indubitavelmente foi ele quem deu o primeiro e mais importante passo na
 direção de uma ***appellation contrôlée***, especificando a Pineau e
 proscrevendo a Gamay, então pretensa rival. A Gamay (que havia surgido
 na década de 1360) atendia à perfeição a máxima de Goethe: produzia
@@ -2835,8 +2889,7 @@ usava-se uma cuba funda para fermentar juntos o suco e as cascas até
 que estas perdessem a cor.
 
 Fazer vinho tinto era uma operação mais complexa e cheia de riscos,
-pois, uma vez iniciada a fer-
-mentação, desprendia-se o dióxido de carbono (que se forma com o
+pois, uma vez iniciada a fermentação, desprendia-se o dióxido de carbono (que se forma com o
 álcool e o calor), e não raro alguém morria pela inalação do gás
 carbônico.
 
@@ -2846,20 +2899,18 @@ Na Idade Média, a prensa era equipamento que somente as grandes
 propriedades de nobres ou da Igreja podiam ter. Eram peças maciças e
 pesadas, construídas com as maiores árvores e tinham como única função
 aumentar em 15% ou 20% o suco das uvas brancas ou o das tintas após a
-fermentação. Em termos de qualidades esse *vin de presse* era infe-
-rior ao *vin de goutte* que escorria espontaneamente da cuba. Tinha
+fermentação. Em termos de qualidades esse *vin de presse* era inferior ao *vin de goutte* que escorria espontaneamente da cuba. Tinha
 como única virtude fornecer o tanino extra (e, no caso dos tintos,
 reforçar a cor). O que, pondera Hugh Johnson, não chegava a ser uma
 grande vantagem, em se tratando de vinhos destinados ao consumo
 imediato. Podia-se muito bem fabricar bom vinho sem prensa, mas
-naturalmente o vinho de presse vendido em garrafões valia em dinheiro
+naturalmente o vinho *de presse* vendido em garrafões valia em dinheiro
 o esforço.
 
 ## Mudança na vinificação dos séc. 17 e 18
 
 Nos séculos 17 e 18, a vinificação tem por principal objetivo a
-durabilidade. O vinho novo podia pro-
-vocar fortes cólicas intestinais. O vinho com mais de um ano
+durabilidade. O vinho novo podia provocar fortes cólicas intestinais. O vinho com mais de um ano
 provavelmente estava estragado... Daí a necessidade de um vinho que
 pudesse amadurecer. Para tanto, o vinho de prensa era um preservativo
 essencial para o amadurecimento, segundo o Théâtre d’Agriculture de
@@ -2872,14 +2923,13 @@ Arnaldus de Villanova (c. 12351313), um médico provavelmente
 espanhol ou catalão, que lecionou medicina na famosa Universidade de
 Montpellier. Ao contrário da maioria dos livros medievais, o Líber de
 Vinis não era um remanejamento dos clássicos, mas uma obra original,
-uma abordagem médica do vinho - talvez a primeira desde Galeno.
+uma abordagem médica do vinho – talvez a primeira desde Galeno.
 
-Nele, Villanova denuncia trapaças relativas à degustação: “\[...\]
-alguns comerciantes trapaceiam \[...\] fazem vinhos amargos e azedos
+Nele, Villanova denuncia trapaças relativas à degustação: “[...]
+alguns comerciantes trapaceiam [...] fazem vinhos amargos e azedos
 parecerem doces persuadindo os provadores a comer primeiro alcaçuz, ou
 queijo velho e salgado”. O autor também sugere curas para vinhos com
-mau cheiro, desbotados ou insípidos. E dá instruções para a trasfe-
-ga de um barril a outro, assim como oferece uma extensa relação de
+mau cheiro, desbotados ou insípidos. E dá instruções para a trasfega de um barril a outro, assim como oferece uma extensa relação de
 vinhos aromatizados como remédios para todo tipo de doença. Quase tão
 extensa quanto a de Plínio, o Velho.
 
@@ -2899,12 +2949,10 @@ Um desses degustadores era Geoffrey de Waterford. Eis o que ele
 escreveu no século 13 (*Secretum Secretorum*, livro calcado em
 Aristóteles), mas que bem poderia constar em qualquer revista de
 vinhos do século 21: “o Vernache (da Itália Central) é melhor que o
-vinho grego ou o cipriota,
-
-‘perigoso de tomar em quantidade’, porque tem uma força moderada,
+vinho grego ou o cipriota, ‘perigoso de tomar em quantidade’, porque tem uma força moderada,
 desabrocha suavemente ao entrar na boca, acaricia as narinas e
 conforta o cérebro, seduzindo o palato de forma delicada, mas vigo-
-rosa \[...\]”.
+rosa [...]”.
 
 ## A crítica ao *enochato.* Modos à mesa e taças individuais
 
@@ -2929,7 +2977,11 @@ bebem sem levantar o cotovelo da mesa \[...\] assemelhando-se a
 \[...\] porcos.” Nem por isso aprecia as maneiras afetadas. Também
 censura os que “curiosamente seguram a taça com três dedos”. Elogia
 os italianos por servirem a todos taças individuais, enquanto o resto
-da Europa aparentemente se contenta em passar o copo.xl
+da Europa aparentemente se contenta em passar o copo.[^footnote40]
+
+[^footnote40]: JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
+London, Mitchell Beazley, 2005, 69.
+
 
 ## O vinho ideal: água para não se embriagar
 
@@ -2944,7 +2996,7 @@ Naturalmente, fez seus comentários sobre o acréscimo de água: todo
 homem deveria conhecer sua própria capacidade e diluir seu vinho de
 acordo
 com ela. Ainda hoje, na Espanha, se mantém o costume de diluir com
-água o vinho do dia-a-dia.
+água o vinho do dia a dia.
 
 ## Enxofre e anidrido sulfuroso
 
@@ -2997,8 +3049,7 @@ A capital do Champanhe, entretanto, é Épernay, uma pequena vila de
 menos de 30 mil habitantes, localizada entre o rio Marne e Coteaux,
 cercada por vinte mil hectares de vinhas e com 100 km de caves
 subterrâneas. Fundada por toneleiros no século 5, foi destruída 25
-vezes por conta das inúmeras batalhas e guerras que ali se desenro-
-laram. A terceira ponta do triângulo é Châlons-enChampagne. Conta
+vezes por conta das inúmeras batalhas e guerras que ali se desenrolaram. A terceira ponta do triângulo é Châlons-enChampagne. Conta
 com 28 km de caves de *champagne,* abrigadas nas galerias dos
 antigos túneis galo-romanos.
 
@@ -3035,11 +3086,17 @@ O conto registra em versos a declaração entusiasta de Madame
 Tifaigne, a chapeleira, sobre o
 champanhe: “Conheço um vinho ribeirinho tão bom que nunca um igual foi
 plantado (...) é um vinho claro. Fremente, forte, fino, fresco,
-agradável de degustar e de engolir.”xli Do relato pode se depreender
+agradável de degustar e de engolir.”[^footnote41] Do relato pode se depreender
 o ambiente urbano da época, das tavernas, das bebidas e alimentos
-consumidos na Paris do início do século XIV.xlii Portanto, séculos
+consumidos na Paris do início do século XIV.[^footnote42] Portanto, séculos
 antes de sua “descoberta”, o champanhe já era motivo de comentários
 por seu temperamento forte...
+
+[^footnote41]: DEMOUY, PATRICK – revista História Viva, ed.
+Temática, nº 17, p. 56.
+
+[^footnote42]: MACEDO, JOSÉ RIVAIR. O real e o imaginário nos fabliaux
+medievais. Revista Tempo (UFF), v. 9 n. 17, p. 9-32, 2004.
 
 Em 1663, três anos antes do nascimento de Dom Pérignon, o satirista
 britânico Samuel Butler, em seu poema *Hudibras,* refere-se pela
@@ -3051,7 +3108,7 @@ Pérignon chegar a Hautvillers (1663).
 
 *Efervescente, fremente* e *Senhor Rojão* são três bons adjetivos para
 o vinho da Champanhe, de temperamento reconhecidamente nada
-tranqüilo. Portanto, se não é verdade que dom Pérignon inventou o
+tranquilo. Portanto, se não é verdade que dom Pérignon inventou o
 *Champagne*, com certeza criou as condições. E que contribuição foi
 esta?
 
@@ -3071,10 +3128,9 @@ aromático possível, sedoso na textura e persistente no sabor. O vinho
 da região apresentava instabilidade inerente: a tendência a
 interromper a fermentação com o primeiro frio do outono e retomá-la
 com o primeiro calor da primavera. Por isso, o monge usava apenas a
-uva tinta Pinot Noir (aquela *Noiren* appelation controlée do Ousado e
+uva tinta Pinot Noir (aquela *Noiren appelation controlée* do Ousado e
 marqueteiro conde de Valois), pois acreditava que as brancas tinham
-uma tendência à refermentação na primavera e tornavam o vinho espu-
-mante, quando o que ele insistia em buscar era um vinho tranqüilo.
+uma tendência à refermentação na primavera e tornavam o vinho espumante, quando o que ele insistia em buscar era um vinho tranquilo.
 
 Era exigente na poda das videiras para que produzissem poucas e boas
 uvas. Colher nas primeiras horas da manhã e com todo o cuidado para
@@ -3096,7 +3152,7 @@ descobrira que misturar uvas de vários vinheiros antes de prensá-las
 (contava com três prensas a seu dispor) era mais interessante.
 Descobrira que ao misturar uvas de diversas vinhas, nas devidas
 proporções e de acordo com o amadurecimento e sabores específicos de
-cada uma, ele podia obter – como efetivamente obtinha - um
+cada uma, ele podia obter – como efetivamente obtinha – um
 vinho melhor e mais consistente do que se prensasse cada um dos
 lotes em separado. Era a famosa *assemblage,* que distingue o
 champanhe dos demais vinhos. Não tardou para que os vinhos de dom
@@ -3104,7 +3160,7 @@ Pérignon custassem quase o dobro dos outros vinhos da região.
 
 Embora usasse a tinta Pinot Noir, o problema de Pérignon persistia: a
 instabilidade do vinho, cujo temperamento fremente, efervescente do
-Senhor Rojão, não garantia um vinho de índole pacífica e tranqüila.
+Senhor Rojão, não garantia um vinho de índole pacífica e tranquila.
 Por fim, as bolhas venceram.
 
 O monge se apercebeu que a leve mousse natural do vinho poderia ficar
@@ -3147,27 +3203,25 @@ Restava ainda o problema do sedimento. Como já vimos, a refermentação
 produz um resíduo de células mortas de levedura, que se depositam nas
 garrafas. Apenas um pouco de sedimento, era tolerável, mas quando
 este era significativo, tornava-se necessário recorrer ao *dépotage*,
-processo incerto, que acarretava desperdícios - entre os quais uma
-perda considerável do precioso gás - e consistia em decantar o vinho
+processo incerto, que acarretava desperdícios – entre os quais uma
+perda considerável do precioso gás – e consistia em decantar o vinho
 mediante trasfega para outra garrafa. O moderno sistema *remuage* -
 na verdade o processo compreendido pelo termo *méthode champenoise*
 – teria de esperar quase cem anos até que uma mulher, viúva e
 decidida, resolvesse o problema: a famosa viúva Clicquot.
 
 Nicole-Barbe Ponsardin (1775-1886) enviuvou aos 27 anos de idade e
-assumiu o comando da pequena adega de champanhe de seu falecido mari-
-do. Mulher de visão, soube escolher bons colaboradores, assumir
+assumiu o comando da pequena adega de champanhe de seu falecido marido. Mulher de visão, soube escolher bons colaboradores, assumir
 riscos e expandir os negócios até a Rússia. Um de seus mais famosos
 triunfos foi desafiar secretamente o bloqueio de Napoleão e enviar
 um carregamento de champanhes, em 1814, para a Rússia. Inventou em
 1816 a *remuage* e a mesa de sua cozinha foi o primeiro *pupitre*. Era
 conhecida como
-
 “La Grande Dame de la Champagne” por sua audácia e determinação.
 
 ## A filoxera
 
-As pragas tomaram de assalto e devastaram as vinhas européias,
+As pragas tomaram de assalto e devastaram as vinhas europeias,
 empurradas pelo progresso do final do século 19.
 
 Tanto o oídio quanto a filoxera já existiam nas vinhas da América do
@@ -3179,7 +3233,7 @@ descarregadas dos navios, embarcadas em trens e num instante
 ganhavam o interior do Velho Continente. As mercadorias seguiam para
 depósitos, as pragas alcançavam terra firme e se multiplicaram.
 
-Em 1860, um fungo, o oídio, atacou as vinhas européias. Para
+Em 1860, um fungo, o oídio, atacou as vinhas europeias. Para
 enfrentá-lo, descobriu-se – uma década depois – que a calda bordalesa,
 à base de sulfato de cobre, era eficaz.
 
@@ -3195,7 +3249,7 @@ filoxera.
 Em vinte anos a filoxera destruiu a maioria dos vinhedos europeus e
 depois seguiu para outras e mais insuspeitadas paragens: África do
 Sul, Austrália, Nova Zelândia e Califórnia. Os vinhateiros de Napa
-Valley e Sonoma haviam importado a Vitis vinifera européia,
+Valley e Sonoma haviam importado a *Vitis vinifera* europeia,
 considerada superior. E antes que descobrissem o antídoto, 17 mil
 acres de vinhedo foram arruinados na Califórnia.
 
@@ -3206,7 +3260,7 @@ sobre vinhos.
 
 # Bibliografia e indicações para leitura
 
-**Associação Brasileira de Sommeliers/São Paulo** - Curso Básico de
+**Associação Brasileira de Sommeliers/São Paulo** – Curso Básico de
 Vinhos, 2006
 
 **Amarante, José Osvaldo Albano do** – Os segredos do vinho para
@@ -3227,82 +3281,6 @@ São Paulo, Larousse do Brasil, 2004.
 **MacNeil, Karen** – A Bíblia do Vinho. Trad. Laura Alves e Aurélio
 Rebello, Rio, Ediouro, 2003
 
-# Notas
-i LAROUSSE DO VINHO, p. 15.
-ii REVISTA ADEGA, nº 18, pg. 15, 2007 editora Inner.
-iii LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho,
-São Paulo, Larousse do Brasil, 2004. pg. 16.
-iv PAPER CURSO BÁSICO 2006 da Associação Brasileira de Sommeliers –
-São Paulo pg. 38.
-v REVISTA WINE STYLE, o vinho tratado com inteligência, safra
-2005/setembro outubro pg.33.
-vi. AMARANTE, JOSÉ OSVALDO ALBANO DO – Os se-
-gredos do vinho para iniciantes e iniciados. São Paulo. Mescla, 2005,
-pg. 128.
-vi. AMARANTE, JOSÉ OSVALDO ALBANO DO – Os se-
-gredos do vinho para iniciantes e iniciados. São Paulo. Mescla, 2005,
-pg. 128-129.
-viii REVISTA WINE STYLE, 2007 pg. 47.
-ix LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho,
-São Paulo, Larousse do Brasil, 2004. pg. 16.
-x CELITO CRIVELLARO GUERRA, MAURO CELSO ZANUS
-
-- Uvas viníferas para processamento em regiões de clima temperado.
-Embrapa. Versão eletrônica jul/2003.
-xi LAROUSSE DO VINHO, pg. 70.
-xii LAROUSSE DO VINHO, pg. 70.
-xiii In REVISTA ADEGA, nº 4, 2005, pg. 23
-xiv REVISTA ADEGA, nº 20, ano 3.
-xv REVISTA WINE STYLE, dezembro, 2007, p.58
-xvi. BRAUNE, RENATA E FRANCO, SILVIA CINTRA – O
-que é Gastronomia? São Paulo, Brasiliense, 2007, pg.51.
-xvi. BRAUNE, RENATA E FRANCO, SILVIA CINTRA – O
-que é Gastronomia?, São Paulo, Brasiliense, pg. 55.
-xviii IN ART. A construção social do gosto, de Diane Seymour.
-Gastronomia, restaurantes e comportamento do consumidor, Barueri,
-Manole, 2005, pg. 198.
-xix JOHNSON, HUGH – Hugh Johnson’s Pocket Wine Book 2008, pg. 7.
-xx IN ART. A construção social do gosto, de Diane Seymour.
-Gastronomia, restaurantes e comportamento do consumidor, Barueri,
-Manole, 2005, pg. 198.
-xxi FEATHERSTONE, MIKE – Consumer culture and postmodernism. 1991.
-London. Sage
-xxii REVISTA ADEGA, ano 3, nº 18, 2007, pg. 13.
-xxiii REVISTA VEJA, 25/7/07.
-xxiv REVISTA ADEGA, ano 3, nº 18, 2007, pg. 13.
-xxv REVISTA ADEGA, ano 3, nº 16, 2007, pg. 12.
-xxvi REVISTA ADEGA, ano 1, nº 2, 2005, pg. 33.
-xxvii REVISTA WINE STYLE, safra 2005, novembro dezembro, pg. 24.
-xxviii REVISTA WINE SPECTATOR, october, 15, 2004, pg. 47.
-xxix REVISTA WINE STYLE, 2005, maio junho, pg. 46.
-xxx LAROUSSE DO VINHO – consultoria Charlotte Marc e Ricardo Castilho,
-São Paulo, Larousse do Brasil, 2004. pg.300.
-xxxi BEATO, MANOEL – Guia de Vinhos Larousse; org. Guta Chaves. 2ª ed.
-S.Paulo, Larousse do Brasil, 2007, pg. 57.
-xxxii CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
-nº 17, pg. 8.
-xxxiii JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
-London, Mitchell Beazley, 2005, 13-14.
-xxxiv CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
-nº 17, pg. 14.
-xxxv JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
-London, Mitchell Beazley, 2005, 17.
-xxxvi CARLAN, CLAUDIO UMPIERRE – revista História Viva, ed. Temática,
-nº 17, pg. 15.
-xxxvii FUNARI, PEDRO PAULO - revista História Viva, ed. Temática, nº
-17, pg.21.
-xxxviii JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
-London, Mitchell Beazley, 2005, 72.
-xxxix JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
-London, Mitchell Beazley, 2005, 65.
-xl JOHNSON, HUGH – The Story of Wine – New Illustrated Edition,
-London, Mitchell Beazley, 2005, 69.
-xli DEMOUY, PATRICK - revista História Viva, ed.
-
-Temática, nº 17, pg. 56.
-xlii MACEDO, JOSÉ RIVAIR. O real e o imaginário nos fabliaux
-medievais. Revista Tempo (UFF), v. 9 n. 17, p. 9-32, 2004.
-
 # Sobre as autoras
 
 IMAGEM4
@@ -3315,7 +3293,7 @@ já expôs por duas vezes seu trabalho na prestigiosa Universidade de
 Harvard, hoje se dedica a escrever sobre assuntos mais apetitosos,
 como gastronomia e vinhos. É sócia da Associação Brasileira de
 Sommeliers e colunista de vinhos do site Adegas & Vinhos
-(www.adegavinhos.com.br) e do jornal OPEN. Viaja com freqüência
+(www.adegavinhos.com.br) e do jornal OPEN. Viaja com frequência
 para visitar vinícolas nos Estados Unidos, Europa, Chile, Argentina,
 além de nossa Serra Gaúcha. E acredita firmemente que o que faz o bom
 vinho é o momento e a boa companhia. É co-autora com a chef Renata
